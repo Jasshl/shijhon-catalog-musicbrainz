@@ -1,0 +1,15 @@
+{
+ "name": "artist",
+ "url": "https://musicbrainz.org/ws/2/artist/d636fb81-50e0-48b3-acce-f81f254bb282",
+ "params": {
+  "fmt": "json"
+ },
+ "status": 200,
+ "body": {
+  "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+  "disambiguation": "",
+  "country": "CA",
+  "type": "Group",
+  "name": "Silver Railway"
+ }
+}

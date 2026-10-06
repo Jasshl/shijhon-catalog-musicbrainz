@@ -1,0 +1,4365 @@
+{
+ "name": "long-digital",
+ "url": "https://musicbrainz.org/ws/2/release",
+ "params": {
+  "query": "arid:4bb359c2-60a3-4b2a-a138-7e9134c09d11 AND status:official AND format:\"digital media\" AND primarytype:(album OR ep OR single)",
+  "limit": "100",
+  "fmt": "json"
+ },
+ "status": 200,
+ "body": {
+  "created": "2026-01-01T00:00:00.000Z",
+  "count": 105,
+  "offset": 0,
+  "releases": [
+   {
+    "id": "68bc8f0c-d591-4a99-ac3c-040439aaf25d",
+    "score": 100,
+    "count": 1,
+    "title": "Slow Byway Theater Beacon",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "0b27608c-4f25-4149-ad01-43e4ceeb5c32",
+     "title": "Slow Byway Theater Beacon",
+     "primary-type": "EP"
+    },
+    "date": "2013-10-14",
+    "country": "XW",
+    "barcode": "137232126345",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 8,
+    "media": [
+     {
+      "id": "a2d04bdd-3c90-4432-a0a2-2e5f70726ed7",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 8
+     }
+    ]
+   },
+   {
+    "id": "2532b25c-782f-44a7-aa73-72d61a4b823c",
+    "score": 100,
+    "count": 1,
+    "title": "Open Atlas Voyage",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "d6d73e50-38d5-4a30-aaf4-baf8f718f3f2",
+     "title": "Open Atlas Voyage",
+     "primary-type": "EP",
+     "secondary-types": [
+      "Compilation"
+     ]
+    },
+    "date": "2013-05-13",
+    "country": "XW",
+    "barcode": "619360342795",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 10,
+    "media": [
+     {
+      "id": "c4022bf0-e7fe-4b07-ae77-c49b506a0614",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 10
+     }
+    ]
+   },
+   {
+    "id": "c8adff28-bc98-4af2-aa1a-918d42c6639f",
+    "score": 100,
+    "count": 1,
+    "title": "Ragged Overpass Theater",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "e6b76c25-e3b1-43f1-a65d-37d9a2b17660",
+     "title": "Ragged Overpass Theater",
+     "primary-type": "EP"
+    },
+    "date": "2013-05-13",
+    "country": "XW",
+    "barcode": "231803280405",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 7,
+    "media": [
+     {
+      "id": "d5fb5081-a4b8-4760-a908-bba7cb776c3f",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 7
+     }
+    ]
+   },
+   {
+    "id": "61b7f006-2817-417a-a875-802e1751d1f4",
+    "score": 100,
+    "count": 1,
+    "title": "Open Atlas Voyage",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "d6d73e50-38d5-4a30-aaf4-baf8f718f3f2",
+     "title": "Open Atlas Voyage",
+     "primary-type": "EP",
+     "secondary-types": [
+      "Compilation"
+     ]
+    },
+    "date": "2001-03-24",
+    "country": "US",
+    "track-count": 10,
+    "media": [
+     {
+      "id": "a37210f2-c907-4790-a848-a578ad158069",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 10
+     }
+    ]
+   },
+   {
+    "id": "4370fa07-b6ff-404f-ae5a-d186a4d47c7c",
+    "score": 100,
+    "count": 1,
+    "title": "Gentle Morning",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "8c125a19-59ac-4e81-a7b6-381585e4b368",
+     "title": "Winter Corner",
+     "primary-type": "EP"
+    },
+    "date": "2017-01-19",
+    "country": "XW",
+    "barcode": "419232701473",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 4,
+    "media": [
+     {
+      "id": "db86006e-9570-4712-a164-5369fcfde1ee",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 4
+     }
+    ]
+   },
+   {
+    "id": "c0b3f01c-ff8e-42af-a8a9-f62f2273bb50",
+    "score": 100,
+    "count": 1,
+    "title": "Small Inlet",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "78373aa5-a21a-4843-a49b-f825f7cd97e4",
+     "title": "Wooden Copse",
+     "primary-type": "EP"
+    },
+    "date": "",
+    "country": "XW",
+    "barcode": "206258730192",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 6,
+    "media": [
+     {
+      "id": "5caeb812-12ca-4305-a251-52a562e1d199",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 6
+     }
+    ]
+   },
+   {
+    "id": "78d56fde-7086-47a0-abef-80bba37a4e1c",
+    "score": 100,
+    "count": 1,
+    "title": "Crimson River Corner Corner",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "a621b153-a9ca-4021-a1d6-dde526ce61af",
+     "title": "Crimson River Corner Corner",
+     "primary-type": "EP",
+     "secondary-types": [
+      "Live"
+     ]
+    },
+    "barcode": "187852950871",
+    "label-info": [
+     {
+      "label": {
+       "id": "ab42558f-184c-4f6c-a314-f029e5ea3cf2",
+       "name": "Cedar Hollow"
+      }
+     }
+    ],
+    "track-count": 4,
+    "media": [
+     {
+      "id": "38ad3ee1-47a3-4ce1-a757-a055517f56cc",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 4
+     }
+    ]
+   },
+   {
+    "id": "ed44fe04-5185-46f8-a92c-cf4772318a60",
+    "score": 100,
+    "count": 1,
+    "title": "Slow Byway Theater Beacon",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "0b27608c-4f25-4149-ad01-43e4ceeb5c32",
+     "title": "Slow Byway Theater Beacon",
+     "primary-type": "EP"
+    },
+    "barcode": "442385694558",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 8,
+    "media": [
+     {
+      "id": "a9977928-f49a-4447-a4d5-632f2ea6475c",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 8
+     }
+    ]
+   },
+   {
+    "id": "c635fcd7-1e8c-4c0c-ad43-dfefe410fc1c",
+    "score": 100,
+    "count": 1,
+    "title": "Slow Byway Theater Beacon",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "0b27608c-4f25-4149-ad01-43e4ceeb5c32",
+     "title": "Slow Byway Theater Beacon",
+     "primary-type": "EP"
+    },
+    "date": "2006-06-09",
+    "country": "XW",
+    "barcode": "",
+    "label-info": [
+     {
+      "label": {
+       "id": "f5fa1c18-2e82-42ab-a5bb-d9de5459f491",
+       "name": "Plain Parade"
+      }
+     }
+    ],
+    "track-count": 8,
+    "media": [
+     {
+      "id": "c851da24-dd44-4bbe-a250-841413bdba7b",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 8
+     }
+    ]
+   },
+   {
+    "id": "8e6e25df-2cab-4bdc-aef7-730a90a3c75d",
+    "score": 100,
+    "count": 1,
+    "title": "Slow Byway Theater Beacon",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "0b27608c-4f25-4149-ad01-43e4ceeb5c32",
+     "title": "Slow Byway Theater Beacon",
+     "primary-type": "EP"
+    },
+    "date": "2006-06-09",
+    "country": "GB",
+    "barcode": "",
+    "label-info": [
+     {
+      "label": {
+       "id": "ac368f4f-cfdf-4e82-a7ef-62bece451e73",
+       "name": "Amber Alcove"
+      }
+     }
+    ],
+    "track-count": 8,
+    "media": [
+     {
+      "id": "f12887e7-723c-48a4-ab53-195ca710475f",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 8
+     }
+    ]
+   },
+   {
+    "id": "06131742-9117-4885-a053-5986ee88d422",
+    "score": 92,
+    "count": 1,
+    "title": "Pale Alcove Overpass",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "811b6ede-4414-4ade-a9fe-a681201ef1c1",
+     "title": "Pale Alcove Overpass",
+     "primary-type": "Single"
+    },
+    "date": "2013-05-03",
+    "country": "XW",
+    "barcode": "709844793751",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 1,
+    "media": [
+     {
+      "id": "5b529277-e712-493d-ac25-3509c3d3d332",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 1
+     }
+    ]
+   },
+   {
+    "id": "2eb8dfed-5f1f-4aa0-a51b-e3136d5e7d5c",
+    "score": 92,
+    "count": 1,
+    "title": "Faded Overpass Meadow Station",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "706adf39-e8b8-4b9f-a12f-174d6579a085",
+     "title": "Faded Overpass Meadow Station",
+     "primary-type": "Single"
+    },
+    "date": "2013-05-13",
+    "country": "XW",
+    "barcode": "686982758489",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 5,
+    "media": [
+     {
+      "id": "4c63b7ee-5d74-4eba-a2a9-f1b9008f543f",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 5
+     }
+    ]
+   },
+   {
+    "id": "2a4589f1-596d-48b1-a646-0cc0b20f478f",
+    "score": 92,
+    "count": 1,
+    "title": "Silver Sandbar Cliff Voyage",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "3cab166d-2101-45de-a2ca-aa407166c834",
+     "title": "Silver Sandbar Cliff Voyage",
+     "primary-type": "Single"
+    },
+    "date": "",
+    "country": "XW",
+    "barcode": "182145713944",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 3,
+    "media": [
+     {
+      "id": "2b640958-f07a-4cc2-a2f7-0b60431868ee",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 3
+     }
+    ]
+   },
+   {
+    "id": "c83ee981-34bf-40ff-a4fd-37c8cd22d499",
+    "score": 92,
+    "count": 1,
+    "title": "Cobalt Paddock Hollow Cellar",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "ea4c0cb7-4373-45db-ae5f-0ce6aaecc7b0",
+     "title": "Dappled Dale Theater",
+     "primary-type": "Single"
+    },
+    "date": "2013-05-13",
+    "country": "XW",
+    "barcode": "401620625033",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 6,
+    "media": [
+     {
+      "id": "a18a5392-b4a4-43a9-ab47-e82d87bef980",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 6
+     }
+    ]
+   },
+   {
+    "id": "934ab4cc-e6c7-4293-ab8a-89c30e8099be",
+    "score": 92,
+    "count": 1,
+    "title": "Dappled Beacon",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "66089f48-6889-4e2e-a798-893d4e188b05",
+     "title": "Dappled Beacon",
+     "primary-type": "Single"
+    },
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 1,
+    "media": [
+     {
+      "id": "3e6d60ba-d315-4e29-a35e-9b88f462be42",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 1
+     }
+    ]
+   },
+   {
+    "id": "56ff9799-115a-4001-a334-422630e60664",
+    "score": 92,
+    "count": 1,
+    "title": "Glass Radio",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "2fd0ff86-3fe8-4a6a-a8fa-1f0dc0679e4f",
+     "title": "Glass Radio",
+     "primary-type": "Single"
+    },
+    "date": "2013-05-06",
+    "country": "XW",
+    "barcode": "547949259926",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 1,
+    "media": [
+     {
+      "id": "d6b4baf5-5578-4fb4-af59-01b6ae8294a2",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 1
+     }
+    ]
+   },
+   {
+    "id": "a604a20d-f68b-4ba2-a460-1ff28da8e407",
+    "score": 92,
+    "count": 1,
+    "title": "Distant Estuary Lantern Pier",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "4dcdc8fd-cd73-4166-a788-7c6d49adcd27",
+     "title": "Distant Estuary Lantern Pier",
+     "primary-type": "Single"
+    },
+    "date": "2013-11-18",
+    "country": "XW",
+    "barcode": "347738398510",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 2,
+    "media": [
+     {
+      "id": "93d9b96b-ac38-4268-aa5e-ae2f6bb86c32",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 2
+     }
+    ]
+   },
+   {
+    "id": "17336f4a-4e1f-4687-ac37-e70eefefd144",
+    "score": 92,
+    "count": 1,
+    "title": "Silver Window Station",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "c769600f-a9af-4200-a6c6-e7d003dbba5b",
+     "title": "Silver Window Station",
+     "primary-type": "Single"
+    },
+    "date": "2013-05-13",
+    "country": "XW",
+    "barcode": "168797491382",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 3,
+    "media": [
+     {
+      "id": "6302ac26-a796-4449-aaf8-33db76d48884",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 3
+     }
+    ]
+   },
+   {
+    "id": "ff28e2e8-a13a-4004-af04-209d841ffc5c",
+    "score": 92,
+    "count": 1,
+    "title": "Distant Valley",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "e494f879-2675-4298-ad72-7446b9078e02",
+     "title": "Distant Valley",
+     "primary-type": "Single"
+    },
+    "date": "2013-05-13",
+    "country": "XW",
+    "barcode": "927580494727",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 5,
+    "media": [
+     {
+      "id": "05ff3841-9afb-4787-a9f6-59056de7a2d0",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 5
+     }
+    ]
+   },
+   {
+    "id": "a932a843-51fb-4c6e-afd8-46fe3217e981",
+    "score": 92,
+    "count": 1,
+    "title": "Silver Lantern",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "2ad07407-aeb6-423c-a9a1-6edcc52cd220",
+     "title": "Silver Lantern",
+     "primary-type": "Single"
+    },
+    "date": "2013-05-16",
+    "country": "XW",
+    "barcode": "529664679784",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 1,
+    "media": [
+     {
+      "id": "df0f1c6d-1b14-4788-af6d-bdb787aa9283",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 1
+     }
+    ]
+   },
+   {
+    "id": "72016ce3-f40b-4434-a2d8-822c6b62c486",
+    "score": 92,
+    "count": 1,
+    "title": "Ashen Valley",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "0e45604f-83a1-47b2-a08d-2a043af0a751",
+     "title": "Ashen Valley",
+     "primary-type": "Single"
+    },
+    "date": "2013-05-13",
+    "country": "XW",
+    "barcode": "174132049396",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 3,
+    "media": [
+     {
+      "id": "6b70b3d1-cd0d-4874-af44-2e4c408031f1",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 3
+     }
+    ]
+   },
+   {
+    "id": "62873e00-20bc-4e6a-a4c1-f5ebb5fdef2c",
+    "score": 92,
+    "count": 1,
+    "title": "Copper Current",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "f2f2ea42-383c-4cea-abff-35276b57c1e5",
+     "title": "Copper Current",
+     "primary-type": "Single"
+    },
+    "date": "2013-05-13",
+    "country": "XW",
+    "barcode": "405760990267",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 5,
+    "media": [
+     {
+      "id": "a8491375-f34a-449e-a9d8-ac8a9100954a",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 5
+     }
+    ]
+   },
+   {
+    "id": "5119a627-2e3b-4fe0-ab29-61cddf0d84a3",
+    "score": 92,
+    "count": 1,
+    "title": "Silent Valley",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "e86c7e83-4752-4470-a9d0-374734d5d53b",
+     "title": "Silent Valley",
+     "primary-type": "Single"
+    },
+    "date": "2013-05-13",
+    "country": "XW",
+    "barcode": "060252396739",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 5,
+    "media": [
+     {
+      "id": "6fa50d4c-bd93-4adf-a54e-0bdfcacb8964",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 5
+     }
+    ]
+   },
+   {
+    "id": "e2ebf059-f30c-4426-a163-13a6e04cc655",
+    "score": 92,
+    "count": 1,
+    "title": "Ragged Hollow Atlas Corner",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "b1d076fc-2d01-4f0c-a08e-fa68fa97c8e3",
+     "title": "Ragged Hollow Atlas Corner",
+     "primary-type": "Single"
+    },
+    "date": "2013-11-04",
+    "country": "XW",
+    "barcode": "187024382104",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 1,
+    "media": [
+     {
+      "id": "0c45b4ae-0221-4042-ae9c-c8e440742007",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 1
+     }
+    ]
+   },
+   {
+    "id": "bc02daa4-f6ef-4a52-a04c-2a4b692d323b",
+    "score": 92,
+    "count": 1,
+    "title": "Crimson Letter",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "1a4efe63-ecb2-474d-a91f-a168a7c65646",
+     "title": "Crimson Letter",
+     "primary-type": "Single"
+    },
+    "date": "2014-06-02",
+    "country": "XW",
+    "barcode": "137173862223",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 1,
+    "media": [
+     {
+      "id": "2d72eb49-f9a2-4adc-aacf-14710e3797e1",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 1
+     }
+    ]
+   },
+   {
+    "id": "2f921a82-0708-47be-a3f2-acd943d6df71",
+    "score": 92,
+    "count": 1,
+    "title": "Glass Needle Lighthouse Pavilion",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "e30cfe52-479b-4589-af0a-98ceb5cd4ed7",
+     "title": "Glass Needle Lighthouse Pavilion",
+     "primary-type": "Single"
+    },
+    "date": "2013-11-11",
+    "country": "XW",
+    "barcode": "557213976956",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 1,
+    "media": [
+     {
+      "id": "b7df24c3-d08e-49f6-a4ef-f58299587812",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 1
+     }
+    ]
+   },
+   {
+    "id": "524b3271-950a-4036-aa37-771d24bd8121",
+    "score": 92,
+    "count": 1,
+    "title": "Dappled Parade",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "6787b3ce-427d-4de2-a12f-80eab9e59481",
+     "title": "Dappled Parade",
+     "primary-type": "Single"
+    },
+    "date": "2016-01-11",
+    "country": "XW",
+    "barcode": "613454215427",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 1,
+    "media": [
+     {
+      "id": "3ba25689-093e-4ff7-a6bc-19c5aaea919a",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 1
+     }
+    ]
+   },
+   {
+    "id": "88c0d187-48c4-4650-a7a1-42fe6c812cfd",
+    "score": 92,
+    "count": 1,
+    "title": "Narrow Rampart Chapel",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "1faefa0c-39f5-4803-a79d-b3d136b9fa15",
+     "title": "Narrow Rampart Chapel",
+     "primary-type": "Single"
+    },
+    "date": "2014-06-22",
+    "country": "XW",
+    "barcode": "792219757941",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 1,
+    "media": [
+     {
+      "id": "b47673b2-75a7-422a-a02f-57f4f5ba6e37",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 1
+     }
+    ]
+   },
+   {
+    "id": "f6e0af7b-1a54-4148-a814-32490412e797",
+    "score": 92,
+    "count": 1,
+    "title": "Hollow Avenue",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "31c3ede7-3d1a-4cac-ac88-a31952bfd501",
+     "title": "Hollow Satellite",
+     "primary-type": "Single",
+     "secondary-types": [
+      "Remix"
+     ]
+    },
+    "date": "2008-08-01",
+    "country": "GB",
+    "label-info": [
+     {
+      "label": {
+       "id": "785524b5-17d2-4533-aec6-199611ff5114",
+       "name": "Ivory Alcove Causeway"
+      }
+     }
+    ],
+    "track-count": 3,
+    "media": [
+     {
+      "id": "70f78829-566b-48d0-aec5-ff2052177d75",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 3
+     }
+    ]
+   },
+   {
+    "id": "b94a649c-112b-4238-a2a9-39a43fa22a2c",
+    "score": 92,
+    "count": 1,
+    "title": "Hollow Satellite",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "31c3ede7-3d1a-4cac-ac88-a31952bfd501",
+     "title": "Hollow Satellite",
+     "primary-type": "Single",
+     "secondary-types": [
+      "Remix"
+     ]
+    },
+    "date": "2008-07-04",
+    "country": "GB",
+    "label-info": [
+     {
+      "label": {
+       "id": "785524b5-17d2-4533-aec6-199611ff5114",
+       "name": "Ivory Alcove Causeway"
+      }
+     }
+    ],
+    "track-count": 2,
+    "media": [
+     {
+      "id": "6044b05c-85ea-4827-a652-a7549cccbd63",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 2
+     }
+    ]
+   },
+   {
+    "id": "870cd60a-d13f-41b7-a728-22cf69d1c99f",
+    "score": 92,
+    "count": 1,
+    "title": "Lunar Cliff Byway Pavilion",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "a144fc8d-0518-4654-afbe-4c0edd41a185",
+     "title": "Lunar Cliff Byway Pavilion",
+     "primary-type": "Single"
+    },
+    "date": "2008-12-19",
+    "country": "XW",
+    "barcode": "224703843518",
+    "label-info": [
+     {
+      "label": {
+       "id": "785524b5-17d2-4533-aec6-199611ff5114",
+       "name": "Ivory Alcove Causeway"
+      }
+     }
+    ],
+    "track-count": 2,
+    "media": [
+     {
+      "id": "5262e62d-e09d-46d9-a51e-5fde6c1d8189",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 2
+     }
+    ]
+   },
+   {
+    "id": "3cef6786-57d2-4276-a556-ec0ded2e851b",
+    "score": 92,
+    "count": 1,
+    "title": "Distant Estuary Lantern Pier",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "4dcdc8fd-cd73-4166-a788-7c6d49adcd27",
+     "title": "Distant Estuary Lantern Pier",
+     "primary-type": "Single"
+    },
+    "date": "2008-04-19",
+    "country": "XW",
+    "label-info": [
+     {
+      "label": {
+       "id": "03153dc2-922f-4b4d-a644-9ea8fb47c24c",
+       "name": "Glass Pavilion"
+      }
+     }
+    ],
+    "track-count": 2,
+    "media": [
+     {
+      "id": "cfa359b8-e704-44a5-a795-1eb4e0a62e09",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 2
+     }
+    ]
+   },
+   {
+    "id": "f5f27516-f0c8-4b74-a612-8f0f1f995823",
+    "score": 92,
+    "count": 1,
+    "title": "Still Letter",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "31c3ede7-3d1a-4cac-ac88-a31952bfd501",
+     "title": "Hollow Satellite",
+     "primary-type": "Single",
+     "secondary-types": [
+      "Remix"
+     ]
+    },
+    "date": "2008-08-15",
+    "country": "GB",
+    "label-info": [
+     {
+      "label": {
+       "id": "785524b5-17d2-4533-aec6-199611ff5114",
+       "name": "Ivory Alcove Causeway"
+      }
+     }
+    ],
+    "track-count": 3,
+    "media": [
+     {
+      "id": "6c15e038-2d3d-459d-a3aa-e36753548c59",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 3
+     }
+    ]
+   },
+   {
+    "id": "5a728684-99e3-4d9d-a425-ec9cab781ab8",
+    "score": 92,
+    "count": 1,
+    "title": "Golden Overpass",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "31c3ede7-3d1a-4cac-ac88-a31952bfd501",
+     "title": "Hollow Satellite",
+     "primary-type": "Single",
+     "secondary-types": [
+      "Remix"
+     ]
+    },
+    "date": "2008-08-29",
+    "country": "GB",
+    "label-info": [
+     {
+      "label": {
+       "id": "785524b5-17d2-4533-aec6-199611ff5114",
+       "name": "Ivory Alcove Causeway"
+      }
+     }
+    ],
+    "track-count": 3,
+    "media": [
+     {
+      "id": "a794de68-0255-4a52-aedb-2ace120eed2b",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 3
+     }
+    ]
+   },
+   {
+    "id": "05f1c126-a5bc-43bd-a9c5-33161e799f31",
+    "score": 92,
+    "count": 1,
+    "title": "Rustic Lighthouse",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "31c3ede7-3d1a-4cac-ac88-a31952bfd501",
+     "title": "Hollow Satellite",
+     "primary-type": "Single",
+     "secondary-types": [
+      "Remix"
+     ]
+    },
+    "date": "2008-09-26",
+    "country": "GB",
+    "label-info": [
+     {
+      "label": {
+       "id": "785524b5-17d2-4533-aec6-199611ff5114",
+       "name": "Ivory Alcove Causeway"
+      }
+     }
+    ],
+    "track-count": 3,
+    "media": [
+     {
+      "id": "adc32685-2498-4cd5-ad38-2d9c910828f5",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 3
+     }
+    ]
+   },
+   {
+    "id": "567e469a-04d4-427d-ac8a-93ebb093eb58",
+    "score": 92,
+    "count": 1,
+    "title": "Ragged Hollow Atlas Corner",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "b1d076fc-2d01-4f0c-a08e-fa68fa97c8e3",
+     "title": "Ragged Hollow Atlas Corner",
+     "primary-type": "Single"
+    },
+    "date": "2006-08-17",
+    "country": "XW",
+    "barcode": "",
+    "label-info": [
+     {
+      "label": {
+       "id": "f5fa1c18-2e82-42ab-a5bb-d9de5459f491",
+       "name": "Plain Parade"
+      }
+     }
+    ],
+    "track-count": 1,
+    "media": [
+     {
+      "id": "69f662fe-5b41-48c4-a474-ad8244856653",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 1
+     }
+    ]
+   },
+   {
+    "id": "ddd6cc8b-f8f0-4723-afc6-e9ad0c533867",
+    "score": 92,
+    "count": 1,
+    "title": "Glass Needle Lighthouse Pavilion",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "e30cfe52-479b-4589-af0a-98ceb5cd4ed7",
+     "title": "Glass Needle Lighthouse Pavilion",
+     "primary-type": "Single"
+    },
+    "date": "2006-08-05",
+    "country": "GB",
+    "track-count": 1,
+    "media": [
+     {
+      "id": "c089853a-0353-4bc5-a547-d3a052cd3d51",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 1
+     }
+    ]
+   },
+   {
+    "id": "2da2adfd-01cc-41df-a319-b491814ce3d9",
+    "score": 92,
+    "count": 1,
+    "title": "Dappled Railway",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "e0138d04-6caf-4b03-ac82-5836fb2e019b",
+     "title": "Dappled Railway",
+     "primary-type": "Single"
+    },
+    "date": "2005-09-23",
+    "country": "GB",
+    "label-info": [
+     {
+      "label": {
+       "id": "f5fa1c18-2e82-42ab-a5bb-d9de5459f491",
+       "name": "Plain Parade"
+      }
+     }
+    ],
+    "track-count": 6,
+    "media": [
+     {
+      "id": "ce22539d-9fd9-41d1-ac70-1dab2c5d6aa5",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 6
+     }
+    ]
+   },
+   {
+    "id": "45ac4574-748c-49a9-a70c-2e4043993de8",
+    "score": 92,
+    "count": 1,
+    "title": "Silent Corner",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "6d176a93-da9b-4448-a935-c2f5b9e9c864",
+     "title": "Silent Corner",
+     "primary-type": "Single"
+    },
+    "date": "2013",
+    "country": "XW",
+    "barcode": "839610167715",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 3,
+    "media": [
+     {
+      "id": "bf9e7674-2a5d-45ec-aec1-829ee62ef9fb",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 3
+     }
+    ]
+   },
+   {
+    "id": "afd3ef61-3687-402c-a343-ad31bc64ce76",
+    "score": 92,
+    "count": 1,
+    "title": "Plain Inlet",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "4500e034-cf37-4383-a257-7141e7d6ff7b",
+     "title": "Plain Inlet",
+     "primary-type": "Single",
+     "secondary-types": [
+      "Remix"
+     ]
+    },
+    "date": "2008-11-21",
+    "country": "XW",
+    "barcode": "6390610231153",
+    "label-info": [
+     {
+      "label": {
+       "id": "785524b5-17d2-4533-aec6-199611ff5114",
+       "name": "Ivory Alcove Causeway"
+      }
+     }
+    ],
+    "track-count": 3,
+    "media": [
+     {
+      "id": "0e5cfed4-be86-4856-a123-aecc5495eefb",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 3
+     }
+    ]
+   },
+   {
+    "id": "ce20f4b3-efa4-4726-a4de-81541c9c4377",
+    "score": 92,
+    "count": 1,
+    "title": "Copper Quarry",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "31c3ede7-3d1a-4cac-ac88-a31952bfd501",
+     "title": "Hollow Satellite",
+     "primary-type": "Single",
+     "secondary-types": [
+      "Remix"
+     ]
+    },
+    "date": "2008-07",
+    "country": "GB",
+    "label-info": [
+     {
+      "label": {
+       "id": "785524b5-17d2-4533-aec6-199611ff5114",
+       "name": "Ivory Alcove Causeway"
+      }
+     }
+    ],
+    "track-count": 3,
+    "media": [
+     {
+      "id": "4b85b72a-9125-46a1-a8fe-323d33edcba7",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 3
+     }
+    ]
+   },
+   {
+    "id": "f8316cc8-e195-4871-a236-32bda8f0c44b",
+    "score": 92,
+    "count": 1,
+    "title": "Rapid Cliff",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "31c3ede7-3d1a-4cac-ac88-a31952bfd501",
+     "title": "Hollow Satellite",
+     "primary-type": "Single",
+     "secondary-types": [
+      "Remix"
+     ]
+    },
+    "date": "2008-09-12",
+    "country": "GB",
+    "label-info": [
+     {
+      "label": {
+       "id": "785524b5-17d2-4533-aec6-199611ff5114",
+       "name": "Ivory Alcove Causeway"
+      }
+     }
+    ],
+    "track-count": 2,
+    "media": [
+     {
+      "id": "816ab23e-89ff-4534-acd6-2d1d95b657f7",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 2
+     }
+    ]
+   },
+   {
+    "id": "ba0af1d4-3ec2-4046-a3b5-2e91919bc50d",
+    "score": 92,
+    "count": 1,
+    "title": "Plain Corner Valley Mirror",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "8231bd0f-6898-4356-aa7a-7e6514ef7f6f",
+     "title": "Plain Corner Valley Mirror",
+     "primary-type": "Single",
+     "secondary-types": [
+      "Remix"
+     ]
+    },
+    "track-count": 3,
+    "media": [
+     {
+      "id": "0bb9ef04-2d2f-4013-ade1-e267d60732a3",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 3
+     }
+    ]
+   },
+   {
+    "id": "47cf05ab-5f5b-442a-a6e5-4278ce3924a8",
+    "score": 92,
+    "count": 1,
+    "title": "Western Junction Morning Cellar",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "5a745873-68e3-4617-a1df-0f7f8a129fbb",
+     "title": "Western Junction Morning Cellar",
+     "primary-type": "Single",
+     "secondary-types": [
+      "Remix"
+     ]
+    },
+    "track-count": 3,
+    "media": [
+     {
+      "id": "302e05c7-ea52-43c3-ac19-ae72c4099e26",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 3
+     }
+    ]
+   },
+   {
+    "id": "923efb26-71bd-4267-a656-a380e35e5140",
+    "score": 92,
+    "count": 1,
+    "title": "Young Voyage Parade Causeway",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "624ab563-e360-4d98-a90b-6913518b9466",
+     "title": "Young Voyage Parade Causeway",
+     "primary-type": "Single",
+     "secondary-types": [
+      "Remix"
+     ]
+    },
+    "track-count": 3,
+    "media": [
+     {
+      "id": "2eeae69a-c5d0-42ec-aa25-99526d242b05",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 3
+     }
+    ]
+   },
+   {
+    "id": "b9af53c5-a9da-4bae-a252-4f3a41ae138c",
+    "score": 92,
+    "count": 1,
+    "title": "Dappled Tunnel Beacon Current",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "83f1fad9-144a-4c7c-a870-6fc7c6dfc1bc",
+     "title": "Dappled Tunnel Beacon Current",
+     "primary-type": "Single",
+     "secondary-types": [
+      "Remix"
+     ]
+    },
+    "track-count": 3,
+    "media": [
+     {
+      "id": "a8556054-2824-4eb1-a84c-fd13712ba09f",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 3
+     }
+    ]
+   },
+   {
+    "id": "2d0b86b4-a872-4c33-a650-4caf0b3c15fd",
+    "score": 92,
+    "count": 1,
+    "title": "Silver Season Estuary Current",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "6d9583f0-8c7c-41df-aabf-3a52bf832c41",
+     "title": "Silver Season Estuary Current",
+     "primary-type": "Single"
+    },
+    "date": "2018-09-07",
+    "country": "XW",
+    "barcode": "439579109291",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 1,
+    "media": [
+     {
+      "id": "ee50054c-48b7-45ce-adc4-1df7b3888f5b",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 1
+     }
+    ]
+   },
+   {
+    "id": "2807e922-7d1b-47ba-a940-cedcabe98879",
+    "score": 92,
+    "count": 1,
+    "title": "Ivory Season Causeway",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "4e6b956b-c9c5-48e6-a494-9591b0fc768e",
+     "title": "Ivory Season Causeway",
+     "primary-type": "Single",
+     "secondary-types": [
+      "Remix"
+     ]
+    },
+    "date": "2008-11-13",
+    "country": "XW",
+    "barcode": "",
+    "label-info": [
+     {
+      "label": {
+       "id": "03153dc2-922f-4b4d-a644-9ea8fb47c24c",
+       "name": "Glass Pavilion"
+      }
+     }
+    ],
+    "track-count": 1,
+    "media": [
+     {
+      "id": "1fc53c51-d3aa-444b-acf7-f59944baf7dd",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 1
+     }
+    ]
+   },
+   {
+    "id": "cb1dd433-cba4-4465-a268-76ecbd0e984a",
+    "score": 92,
+    "count": 1,
+    "title": "Still Inlet Quarry",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "4500e034-cf37-4383-a257-7141e7d6ff7b",
+     "title": "Plain Inlet",
+     "primary-type": "Single",
+     "secondary-types": [
+      "Remix"
+     ]
+    },
+    "date": "2017-01-20",
+    "country": "XW",
+    "barcode": "248056487254",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 3,
+    "media": [
+     {
+      "id": "48b0a491-abf1-4075-a48c-60f2cf11dc37",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 3
+     }
+    ]
+   },
+   {
+    "id": "34d7efa6-8bac-443a-a12f-43329038e74e",
+    "score": 92,
+    "count": 1,
+    "title": "Sudden Estuary Pavilion Engine",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "54032654-cefb-4cd5-a077-5da8332abaed",
+     "title": "Sudden Estuary Pavilion Engine",
+     "primary-type": "Single"
+    },
+    "date": "2017-01-20",
+    "country": "XW",
+    "barcode": "566513297911",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 1,
+    "media": [
+     {
+      "id": "030d7838-b52d-4702-abd4-63acdfacc8fd",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 1
+     }
+    ]
+   },
+   {
+    "id": "388dda8e-b652-4725-af8b-e4e0ef9c5e37",
+    "score": 92,
+    "count": 1,
+    "title": "Mellow Alley Mirror",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "7ed9cb4a-47d5-44f3-acd6-bb55dce2ead7",
+     "title": "Mellow Alley Mirror",
+     "primary-type": "Single"
+    },
+    "date": "2017-02-21",
+    "country": "XW",
+    "barcode": "819119182196",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 1,
+    "media": [
+     {
+      "id": "6a5fcd5a-d0ee-4f6e-aa22-452ace2fd195",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 1
+     }
+    ]
+   },
+   {
+    "id": "f245cb8f-a25f-40ad-a114-98902c8d55dc",
+    "score": 92,
+    "count": 1,
+    "title": "Broken Circuit Ledger Theater",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "5671483f-f2df-4e36-a744-48778bf7a4ae",
+     "title": "Broken Circuit Ledger Theater",
+     "primary-type": "Single",
+     "secondary-types": [
+      "Live"
+     ]
+    },
+    "date": "2013-09-15",
+    "country": "XW",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 1,
+    "media": [
+     {
+      "id": "a81a5084-25bf-48af-a195-69e6eeee7e07",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 1
+     }
+    ]
+   },
+   {
+    "id": "92f0e07b-2a82-4877-a1ce-238ffca99a13",
+    "score": 92,
+    "count": 1,
+    "title": "Gilded Inlet Cliff Cellar",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "cdabf344-8ee1-42aa-a705-eabc024067b4",
+     "title": "Gilded Inlet Cliff Cellar",
+     "primary-type": "Single",
+     "secondary-types": [
+      "Live"
+     ]
+    },
+    "date": "2013-10-05",
+    "country": "XW",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 1,
+    "media": [
+     {
+      "id": "e756a1de-2b1f-453a-a3fc-d4dd678d61f2",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 1
+     }
+    ]
+   },
+   {
+    "id": "677cb672-0a3a-4b0d-a934-cbd484c25c33",
+    "score": 92,
+    "count": 1,
+    "title": "Broken Alcove Valley",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "5c7768cc-00fb-49c9-a6ab-65c6dc6a9e9b",
+     "title": "Broken Alcove Valley",
+     "primary-type": "Single"
+    },
+    "date": "2018-11-01",
+    "country": "AF",
+    "barcode": "575163585671",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 1,
+    "media": [
+     {
+      "id": "abb563a7-db23-4543-a826-6c3ceef5d9fc",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 1
+     }
+    ]
+   },
+   {
+    "id": "af27b8ad-90b3-41f8-a834-3c37dd427ebe",
+    "score": 92,
+    "count": 1,
+    "title": "Broken Alcove Valley",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "5c7768cc-00fb-49c9-a6ab-65c6dc6a9e9b",
+     "title": "Broken Alcove Valley",
+     "primary-type": "Single"
+    },
+    "date": "2018-11-03",
+    "country": "XW",
+    "barcode": "086085978557",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 1,
+    "media": [
+     {
+      "id": "5a6268a5-1f6d-4205-a98c-6b914670f68b",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 1
+     }
+    ]
+   },
+   {
+    "id": "07a5dde2-7e98-4cfc-a014-6842d4893b8b",
+    "score": 92,
+    "count": 1,
+    "title": "Mellow Cellar Harbor Parade",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "4c70f66c-25ed-4590-a797-ee8ee8980d57",
+     "title": "Mellow Cellar Harbor Parade",
+     "primary-type": "Single",
+     "secondary-types": [
+      "Remix"
+     ]
+    },
+    "track-count": 2,
+    "media": [
+     {
+      "id": "14298692-dbd1-4fd9-a98c-dc03c591a5f2",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 2
+     }
+    ]
+   },
+   {
+    "id": "32cec59c-f226-4c02-a8dd-3b80326361aa",
+    "score": 92,
+    "count": 1,
+    "title": "Cobalt Alcove Sluice Mirror",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "34e32f5d-8d06-4f6f-a6f8-aeef70f0d760",
+     "title": "Cobalt Alcove Sluice Mirror",
+     "primary-type": "Single",
+     "secondary-types": [
+      "Remix"
+     ]
+    },
+    "track-count": 2,
+    "media": [
+     {
+      "id": "f85a0a02-104f-4842-ace3-4d6201ed6889",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 2
+     }
+    ]
+   },
+   {
+    "id": "9a0cb1b8-416b-493d-a4a5-69e63e18c098",
+    "score": 92,
+    "count": 1,
+    "title": "Bright Dale Cellar Chapel",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "ac92f7f1-a058-4075-acde-9b7422a43315",
+     "title": "Bright Dale Cellar Chapel",
+     "primary-type": "Single",
+     "secondary-types": [
+      "Remix"
+     ]
+    },
+    "track-count": 3,
+    "media": [
+     {
+      "id": "f7f96b75-0807-4810-aa5b-461c073d5b98",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 3
+     }
+    ]
+   },
+   {
+    "id": "708b0f76-8372-4956-a2c1-a7a03005a401",
+    "score": 92,
+    "count": 1,
+    "title": "Faded Season Meadow Tunnel",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "6526ad15-62f2-4093-aa2d-fc7cc6e140d6",
+     "title": "Faded Season Meadow Tunnel",
+     "primary-type": "Single"
+    },
+    "date": "2017-02-21",
+    "country": "XW",
+    "barcode": "961987835978",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 1,
+    "media": [
+     {
+      "id": "d45ebde3-0b13-45cb-abfd-95106067b438",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 1
+     }
+    ]
+   },
+   {
+    "id": "ec4cb928-d610-4b47-ad8a-60d6f28f0a98",
+    "score": 92,
+    "count": 1,
+    "title": "Idle Sluice Thicket Ferry",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "73dde802-5f7e-4615-a500-e6c335aac126",
+     "title": "Idle Sluice Thicket Ferry",
+     "primary-type": "Single"
+    },
+    "date": "2017-02-21",
+    "country": "XW",
+    "barcode": "414851578508",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 1,
+    "media": [
+     {
+      "id": "3ea2bd14-0dcc-4fa5-a459-3db94394bc1d",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 1
+     }
+    ]
+   },
+   {
+    "id": "d18eb80c-80ce-4193-a9bf-7a004fa49bc3",
+    "score": 92,
+    "count": 1,
+    "title": "Lunar Estuary Byway Beacon",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "66a2f5f0-f3c4-4ca0-a1f6-de75e3febc13",
+     "title": "Silent Field Window",
+     "primary-type": "Single"
+    },
+    "date": "2001-09-09",
+    "country": "XW",
+    "barcode": "",
+    "label-info": [
+     {
+      "label": {
+       "id": "5e3a497a-f71e-4f4a-ab6d-8fc692a0cc53",
+       "name": "Gentle Mirror"
+      }
+     }
+    ],
+    "track-count": 1,
+    "media": [
+     {
+      "id": "bb51b868-ce41-475b-a587-6db9b9cadeb5",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 1
+     }
+    ]
+   },
+   {
+    "id": "18c8f982-ac49-4b7f-a125-71073ea45c35",
+    "score": 92,
+    "count": 1,
+    "title": "Faded Cliff Alley Atlas",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "joinphrase": " feat. ",
+      "name": "Plain Estuary",
+      "artist": {
+       "id": "2588db6a-2493-4841-ab5b-0eaa149d1ecd",
+       "name": "Plain Estuary"
+      }
+     },
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "88f9052d-948d-4fe3-a795-3dd07ab2c2a9",
+     "title": "Faded Cliff Alley Atlas",
+     "primary-type": "Single",
+     "secondary-types": [
+      "Remix"
+     ]
+    },
+    "date": "2018-07-13",
+    "country": "AF",
+    "barcode": "932799234289",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 1,
+    "media": [
+     {
+      "id": "e9c173f8-4ccd-496b-a215-f802825f0724",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 1
+     }
+    ]
+   },
+   {
+    "id": "aa99861d-8031-4852-a627-deeac6ecca15",
+    "score": 92,
+    "count": 1,
+    "title": "Wooden Copse",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "e82c3b6f-2692-4c7b-a828-1acbb45c59dc",
+     "title": "Wooden Copse",
+     "primary-type": "Single"
+    },
+    "date": "2013-05-13",
+    "country": "XW",
+    "barcode": "955150990804",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 5,
+    "media": [
+     {
+      "id": "3bd4226e-b20b-4e20-a7d1-8bb5f2c6d630",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 5
+     }
+    ]
+   },
+   {
+    "id": "52a47a95-ff86-4897-a999-247fee9bff61",
+    "score": 92,
+    "count": 1,
+    "title": "Idle Engine",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "48783d22-cd85-4905-a670-ad30e0bebf00",
+     "title": "Idle Engine",
+     "primary-type": "Single"
+    },
+    "date": "",
+    "country": "XW",
+    "barcode": "17443892831223",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 6,
+    "media": [
+     {
+      "id": "9b82ec78-0430-4b69-a511-8d0c1c0abf31",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 6
+     }
+    ]
+   },
+   {
+    "id": "cea66ada-4c0c-4a00-aed0-507b1f27e8e1",
+    "score": 92,
+    "count": 1,
+    "title": "Lunar Cliff Byway Pavilion",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "a144fc8d-0518-4654-afbe-4c0edd41a185",
+     "title": "Lunar Cliff Byway Pavilion",
+     "primary-type": "Single"
+    },
+    "date": "2008-12-19",
+    "country": "XW",
+    "barcode": "89097379880659",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 2,
+    "media": [
+     {
+      "id": "d1253c5c-01c8-4f50-a716-2a00ad602b4a",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 2
+     }
+    ]
+   },
+   {
+    "id": "0d3af136-c687-4af6-aedf-22aa828ce772",
+    "score": 86,
+    "count": 1,
+    "title": "Ashen Pier Mirror Field",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "f9dc18eb-d57e-4430-a67d-2385027ca229",
+     "title": "Ashen Pier Mirror Field",
+     "primary-type": "Album",
+     "secondary-types": [
+      "Compilation",
+      "Remix"
+     ]
+    },
+    "date": "2013-05-04",
+    "country": "XW",
+    "barcode": "072582163251",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 19,
+    "media": [
+     {
+      "id": "52a7fe17-2f90-4269-a68e-b49179787c1f",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 19
+     }
+    ]
+   },
+   {
+    "id": "6411fe29-1e98-4838-a6b5-fe1f8940fa6e",
+    "score": 86,
+    "count": 1,
+    "title": "Cobalt Season",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "fa09b664-2401-47cc-a856-d9dc6909bbda",
+     "title": "Cobalt Season",
+     "primary-type": "Album"
+    },
+    "date": "2013-04-01",
+    "country": "XW",
+    "barcode": "748022499682",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 11,
+    "media": [
+     {
+      "id": "91544445-7606-49b2-a8b1-fc16e9e8341b",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 11
+     }
+    ]
+   },
+   {
+    "id": "56b20cce-16d4-4d9a-a347-de5fd9ae8a76",
+    "score": 86,
+    "count": 1,
+    "title": "Wild Window Atlas Ledger",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "82a144e0-4536-4598-a9a5-10f568f3a530",
+     "title": "Wild Window Atlas Ledger",
+     "primary-type": "Album"
+    },
+    "date": "2013-05-06",
+    "country": "XW",
+    "barcode": "880644524171",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 8,
+    "media": [
+     {
+      "id": "f47f6c46-6720-4164-ae8e-897e253c0534",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 8
+     }
+    ]
+   },
+   {
+    "id": "e150cd7a-e52f-444a-a3da-9957de631a7f",
+    "score": 86,
+    "count": 1,
+    "title": "Distant Causeway Engine Sandbar",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "d9d4b769-5338-490e-aa8b-a9b0d24cb99b",
+     "title": "Distant Causeway Engine Sandbar",
+     "primary-type": "Album",
+     "secondary-types": [
+      "Live"
+     ]
+    },
+    "date": "2013-04-01",
+    "country": "XW",
+    "barcode": "109756364757",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 8,
+    "media": [
+     {
+      "id": "9d5eb2f2-7c33-44d9-a504-a8d7ab7d9f3d",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 8
+     }
+    ]
+   },
+   {
+    "id": "ec2e7b3c-2598-4dcd-a175-e05282753157",
+    "score": 86,
+    "count": 1,
+    "title": "Quiet Letter",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "e2701126-f963-45ed-a165-ad9be75db475",
+     "title": "Quiet Letter",
+     "primary-type": "Album"
+    },
+    "date": "2013-04-01",
+    "country": "XW",
+    "barcode": "219817227556",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 12,
+    "media": [
+     {
+      "id": "826f8e2a-86b7-4c6f-a09e-986956245bcc",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 12
+     }
+    ]
+   },
+   {
+    "id": "244fe7b9-88bf-469f-a2d8-c4367946fd0a",
+    "score": 86,
+    "count": 1,
+    "title": "Warm Copse Morning Estuary",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "3f90427a-fdb6-47d7-afb8-e336780d630c",
+     "title": "Warm Copse Morning Estuary",
+     "primary-type": "Album"
+    },
+    "date": "2013-04-01",
+    "country": "XW",
+    "barcode": "172440124674",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 14,
+    "media": [
+     {
+      "id": "976844c5-e372-44d7-ace9-0a5266e74ae2",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 14
+     }
+    ]
+   },
+   {
+    "id": "c5cb3f0e-2707-4791-a8f6-5d115ba5e372",
+    "score": 86,
+    "count": 1,
+    "title": "Southern Hollow",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "5c4d3cd2-115e-4906-a5c8-1389504f0f6c",
+     "title": "Southern Hollow",
+     "primary-type": "Album"
+    },
+    "date": "2013-05-06",
+    "country": "XW",
+    "barcode": "356427878212",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 10,
+    "media": [
+     {
+      "id": "bccb2590-5dab-4811-a1c3-c5ec74b5a346",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 10
+     }
+    ]
+   },
+   {
+    "id": "734b4abf-1ff4-4162-a905-3145cf2c2463",
+    "score": 86,
+    "count": 1,
+    "title": "Sudden Letter",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "341ec716-1645-49d9-aa73-8cbb6e38c083",
+     "title": "Sudden Letter",
+     "primary-type": "Album"
+    },
+    "date": "2013-04-01",
+    "country": "XW",
+    "barcode": "129120032537",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 12,
+    "media": [
+     {
+      "id": "6b915763-aea3-44fe-a8c1-a60039046ec6",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 12
+     }
+    ]
+   },
+   {
+    "id": "c78637d2-e168-43d2-a8dc-ab53768b1122",
+    "score": 86,
+    "count": 1,
+    "title": "Distant Theater",
+    "status": "Official",
+    "disambiguation": "",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "113f418f-d818-4820-ae5e-8818cb6aa1db",
+     "title": "Distant Theater",
+     "primary-type": "Album",
+     "secondary-types": [
+      "Compilation",
+      "Demo"
+     ]
+    },
+    "date": "2016-06-11",
+    "country": "XW",
+    "barcode": "",
+    "label-info": [
+     {
+      "label": {
+       "id": "03153dc2-922f-4b4d-a644-9ea8fb47c24c",
+       "name": "Glass Pavilion"
+      }
+     }
+    ],
+    "track-count": 18,
+    "media": [
+     {
+      "id": "89a1dee8-8b43-47e5-ae9a-fd11a17fbf6f",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 18
+     }
+    ]
+   },
+   {
+    "id": "815ea129-d13c-49a1-a901-e04e2487ce2a",
+    "score": 86,
+    "count": 1,
+    "title": "Sudden Letter",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "341ec716-1645-49d9-aa73-8cbb6e38c083",
+     "title": "Sudden Letter",
+     "primary-type": "Album"
+    },
+    "date": "",
+    "country": "XW",
+    "barcode": "486478682970",
+    "label-info": [
+     {
+      "label": {
+       "id": "ce0bb050-afe9-466c-a0f2-7be4ddc66d76",
+       "name": "Bright Wharf"
+      }
+     }
+    ],
+    "track-count": 12,
+    "media": [
+     {
+      "id": "022654a8-f39c-4c3c-aa3a-711aa0b88502",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 12
+     }
+    ]
+   },
+   {
+    "id": "c94a22c3-b201-4066-a7ad-d49041b76831",
+    "score": 86,
+    "count": 1,
+    "title": "Copper Lantern Alley Overpass",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "46039bb6-8822-4868-a4a9-60bc70c4334b",
+     "title": "Copper Lantern Alley Overpass",
+     "primary-type": "Album",
+     "secondary-types": [
+      "Live"
+     ]
+    },
+    "date": "2010-06-21",
+    "country": "XW",
+    "barcode": "",
+    "label-info": [
+     {
+      "label": {
+       "id": "c8f60ecf-7790-43d9-a22e-c322b6c6c869",
+       "name": "Small Overpass"
+      }
+     },
+     {
+      "label": {
+       "id": "ea517377-7f93-405a-a59d-5937b7392919",
+       "name": "Western Chapel"
+      }
+     }
+    ],
+    "track-count": 18,
+    "media": [
+     {
+      "id": "35cb38f2-751e-4f7a-a261-12b482b06f69",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 18
+     }
+    ]
+   },
+   {
+    "id": "58bb1e93-a3e6-411b-a310-5c7b75dde137",
+    "score": 86,
+    "count": 1,
+    "title": "Late Copse Sandbar Parade",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "0a898185-a57e-4f2f-abf6-e4c71053af22",
+     "title": "Late Copse Sandbar Parade",
+     "primary-type": "Album",
+     "secondary-types": [
+      "Live"
+     ]
+    },
+    "date": "2005",
+    "country": "GB",
+    "label-info": [
+     {
+      "label": {
+       "id": "f5fa1c18-2e82-42ab-a5bb-d9de5459f491",
+       "name": "Plain Parade"
+      }
+     }
+    ],
+    "track-count": 10,
+    "media": [
+     {
+      "id": "6d3df5f0-3949-4b2d-ac14-1f55386494e9",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 10
+     }
+    ]
+   },
+   {
+    "id": "2f56f9db-d0fc-4545-af3e-b2867a33a870",
+    "score": 86,
+    "count": 2,
+    "title": "Southern Hollow",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "5c4d3cd2-115e-4906-a5c8-1389504f0f6c",
+     "title": "Southern Hollow",
+     "primary-type": "Album"
+    },
+    "date": "2006-06-09",
+    "country": "XW",
+    "track-count": 18,
+    "media": [
+     {
+      "id": "f2426ce8-8008-4f09-af8d-49d938fcb8ac",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 10
+     },
+     {
+      "id": "7af0b67b-f014-47ae-aea4-5bb1847db5d0",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 8
+     }
+    ]
+   },
+   {
+    "id": "8fe48741-8b8e-4240-a8bb-5b3c3144f93f",
+    "score": 86,
+    "count": 1,
+    "title": "Violet Railway",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "a1a6457f-6282-417a-a816-7df9efc1a199",
+     "title": "Violet Railway",
+     "primary-type": "Album"
+    },
+    "date": "2004-09-25",
+    "country": "US",
+    "label-info": [
+     {
+      "label": {
+       "id": "ce0bb050-afe9-466c-a0f2-7be4ddc66d76",
+       "name": "Bright Wharf"
+      }
+     }
+    ],
+    "track-count": 11,
+    "media": [
+     {
+      "id": "d8da4bb2-0aa7-4b82-a768-7c3cd6fe7526",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 11
+     }
+    ]
+   },
+   {
+    "id": "f9bd126b-c1fa-4e95-a4a0-9de8a78aa47c",
+    "score": 86,
+    "count": 3,
+    "title": "Eastern Wharf Hollow",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "b2ea3d81-9995-45cf-a6b8-efdf031ccf21",
+     "title": "Eastern Wharf Hollow",
+     "primary-type": "Album",
+     "secondary-types": [
+      "Compilation"
+     ]
+    },
+    "date": "2018-11-05",
+    "country": "XW",
+    "barcode": "209409313232",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 34,
+    "media": [
+     {
+      "id": "39911945-7fb7-43a0-ac99-67225347200f",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 11
+     },
+     {
+      "id": "79efbb7f-82f2-4c86-a18a-67dc86d4e762",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 11
+     },
+     {
+      "id": "0fcab70f-3b9f-4c5e-ad69-60b85070bb78",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 12
+     }
+    ]
+   },
+   {
+    "id": "d188781f-d8ac-4b38-a9f0-1f92f419f913",
+    "score": 86,
+    "count": 1,
+    "title": "Sudden Letter",
+    "status": "Official",
+    "disambiguation": "",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "341ec716-1645-49d9-aa73-8cbb6e38c083",
+     "title": "Sudden Letter",
+     "primary-type": "Album"
+    },
+    "date": "2018-10-21",
+    "country": "XW",
+    "barcode": "129120032537",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 12,
+    "media": [
+     {
+      "id": "6c1f8857-d2bb-45e4-ab70-f063caed02e0",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 12
+     }
+    ]
+   },
+   {
+    "id": "8efcf7d7-af68-4d2f-a40b-009b6a813562",
+    "score": 86,
+    "count": 1,
+    "title": "Still Inlet Pavilion Quarry",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "5eeaddb3-5c07-44ae-a088-ab05a6e3a5d3",
+     "title": "Still Inlet Pavilion Quarry",
+     "primary-type": "Album",
+     "secondary-types": [
+      "Live"
+     ]
+    },
+    "date": "2017-07-02",
+    "country": "XW",
+    "barcode": "",
+    "label-info": [
+     {
+      "label": {
+       "id": "03153dc2-922f-4b4d-a644-9ea8fb47c24c",
+       "name": "Glass Pavilion"
+      }
+     }
+    ],
+    "track-count": 16,
+    "media": [
+     {
+      "id": "73d895a1-52be-472e-a59b-813949b20d96",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 16
+     }
+    ]
+   },
+   {
+    "id": "f5dd592f-bb06-4ee4-afb7-7fc5bb42f631",
+    "score": 86,
+    "count": 1,
+    "title": "Eastern Wharf Hollow",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "b2ea3d81-9995-45cf-a6b8-efdf031ccf21",
+     "title": "Eastern Wharf Hollow",
+     "primary-type": "Album",
+     "secondary-types": [
+      "Compilation"
+     ]
+    },
+    "date": "2018-11-05",
+    "country": "XW",
+    "barcode": "209409313232",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 34,
+    "media": [
+     {
+      "id": "afd4ea6e-a86f-4af4-ad6b-839a52e3c022",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 34
+     }
+    ]
+   },
+   {
+    "id": "643c5cdd-f0ce-4094-a511-ebf649d7b95c",
+    "score": 86,
+    "count": 1,
+    "title": "Ragged Atlas Dale Inlet",
+    "status": "Official",
+    "disambiguation": "",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "a133f4c6-a599-40da-af63-c1420c4a42a2",
+     "title": "Rustic Hollow Letter Wharf",
+     "primary-type": "Album",
+     "secondary-types": [
+      "Live"
+     ]
+    },
+    "date": "1994-06-28",
+    "country": "GB",
+    "barcode": "",
+    "label-info": [
+     {
+      "label": {
+       "id": "d947e258-d481-46cb-adb2-6312ac1b25c0",
+       "name": "Paper Engine"
+      }
+     }
+    ],
+    "track-count": 1,
+    "media": [
+     {
+      "id": "22abebc4-48df-4a95-a6c9-448a45d4f2a1",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 1
+     }
+    ]
+   },
+   {
+    "id": "372b1f7a-6b76-45fe-a528-979c0098cc6c",
+    "score": 86,
+    "count": 1,
+    "title": "Ragged Mirror",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "a9558b57-1381-4278-a5dd-4b88994fb987",
+     "title": "Ragged Mirror",
+     "primary-type": "Album",
+     "secondary-types": [
+      "Interview"
+     ]
+    },
+    "date": "2007-08-23",
+    "country": "XW",
+    "barcode": "5172472748722",
+    "label-info": [
+     {
+      "label": {
+       "id": "0e76eaa4-3fcb-445d-a218-4638ea7be622",
+       "name": "Wild Lantern"
+      }
+     }
+    ],
+    "track-count": 1,
+    "media": [
+     {
+      "id": "d11ecce5-00e1-4989-a10e-e373c5b706aa",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 1
+     }
+    ]
+   },
+   {
+    "id": "972c1f4e-e57d-4f16-a402-c52bd874e7b4",
+    "score": 86,
+    "count": 1,
+    "title": "Wild Window Atlas Ledger",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "82a144e0-4536-4598-a9a5-10f568f3a530",
+     "title": "Wild Window Atlas Ledger",
+     "primary-type": "Album"
+    },
+    "date": "2020-08-12",
+    "country": "XW",
+    "barcode": "787282211078",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 8,
+    "media": [
+     {
+      "id": "df4daba6-cdcf-4492-a25a-c1accaaa78ea",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 8
+     }
+    ]
+   },
+   {
+    "id": "a2c1c2af-a0bb-401f-a773-80aea2c690ce",
+    "score": 86,
+    "count": 1,
+    "title": "Southern Hollow",
+    "status": "Official",
+    "disambiguation": "24‐bit",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "5c4d3cd2-115e-4906-a5c8-1389504f0f6c",
+     "title": "Southern Hollow",
+     "primary-type": "Album"
+    },
+    "date": "2013-05-06",
+    "country": "XW",
+    "barcode": "266225252763",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 10,
+    "media": [
+     {
+      "id": "09c12ec3-7615-44c4-a85a-dfc7b3c0e406",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 10
+     }
+    ]
+   },
+   {
+    "id": "bebdcef8-2dcb-4a37-aafc-6b48658629e9",
+    "score": 86,
+    "count": 1,
+    "title": "Velvet Estuary Estuary Pier",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "991b9f45-546c-47c9-ae24-060a316add9f",
+     "title": "Velvet Estuary Estuary Pier",
+     "primary-type": "Album",
+     "secondary-types": [
+      "Live"
+     ]
+    },
+    "barcode": "660819244675",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 12,
+    "media": [
+     {
+      "id": "29f1fcdb-bff6-486d-aaba-4ac508ca9cd1",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 12
+     }
+    ]
+   },
+   {
+    "id": "910565e8-8468-42eb-a6ce-601362fa69c4",
+    "score": 86,
+    "count": 1,
+    "title": "Velvet Estuary Estuary Pier",
+    "status": "Official",
+    "disambiguation": "",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "991b9f45-546c-47c9-ae24-060a316add9f",
+     "title": "Velvet Estuary Estuary Pier",
+     "primary-type": "Album",
+     "secondary-types": [
+      "Live"
+     ]
+    },
+    "barcode": "479318763922",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 12,
+    "media": [
+     {
+      "id": "24806dae-fc68-47c9-a830-45532d60a404",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 12
+     }
+    ]
+   },
+   {
+    "id": "ba39d5ee-f7d5-4e42-ab7c-55eb2b900e9b",
+    "score": 86,
+    "count": 1,
+    "title": "Velvet Estuary Estuary Pier",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "991b9f45-546c-47c9-ae24-060a316add9f",
+     "title": "Velvet Estuary Estuary Pier",
+     "primary-type": "Album",
+     "secondary-types": [
+      "Live"
+     ]
+    },
+    "date": "2022-08-13",
+    "country": "XW",
+    "barcode": "792217554194",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 12,
+    "media": [
+     {
+      "id": "66d4202e-758e-4900-a158-62382e4c56a0",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 12
+     }
+    ]
+   },
+   {
+    "id": "13e11ffe-c746-4a5e-a657-5dd6eb0d76cd",
+    "score": 86,
+    "count": 1,
+    "title": "Broken Copse",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "e195832c-a81e-40b3-af4e-960defc3ce7e",
+     "title": "Broken Copse",
+     "primary-type": "Album"
+    },
+    "date": "2013-04-01",
+    "country": "XW",
+    "barcode": "772750233776",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 12,
+    "media": [
+     {
+      "id": "e939d29c-6a39-4587-a939-64420479e095",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 12
+     }
+    ]
+   },
+   {
+    "id": "89004367-f0d9-4d33-a4fe-51f788f4cae3",
+    "score": 86,
+    "count": 2,
+    "title": "Late Shingle Estuary Meadow",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "e195832c-a81e-40b3-af4e-960defc3ce7e",
+     "title": "Broken Copse",
+     "primary-type": "Album"
+    },
+    "date": "2014-06-23",
+    "country": "XW",
+    "barcode": "719377324111",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 23,
+    "media": [
+     {
+      "id": "cad24aae-ea32-47aa-aeb3-d1b2c89d65c7",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 12
+     },
+     {
+      "id": "e3067270-090f-4c35-af3a-88fab1d8e08e",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 11
+     }
+    ]
+   },
+   {
+    "id": "0b62d948-944d-40d5-ac9f-0c435b2f8707",
+    "score": 86,
+    "count": 1,
+    "title": "Ragged Meadow Alcove Alley",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "e195832c-a81e-40b3-af4e-960defc3ce7e",
+     "title": "Broken Copse",
+     "primary-type": "Album"
+    },
+    "date": "2014-06-22",
+    "country": "XW",
+    "barcode": "274719356914",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 23,
+    "media": [
+     {
+      "id": "6fcbd507-67e7-43b8-a74d-e4af7983200a",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 23
+     }
+    ]
+   },
+   {
+    "id": "58de3cf5-907f-4b91-a0f4-d64c111ca52c",
+    "score": 86,
+    "count": 2,
+    "title": "Ragged Meadow Alcove Alley",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "e195832c-a81e-40b3-af4e-960defc3ce7e",
+     "title": "Broken Copse",
+     "primary-type": "Album"
+    },
+    "date": "2014-06-23",
+    "country": "XW",
+    "barcode": "224794954962",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 23,
+    "media": [
+     {
+      "id": "58204deb-2f96-418c-a453-84ff1398f164",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 12
+     },
+     {
+      "id": "df850ba9-a44b-4aa2-a003-23b87d129a00",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 11
+     }
+    ]
+   },
+   {
+    "id": "f7aae4ad-6a72-4cad-a7fd-856bd0d37ff1",
+    "score": 86,
+    "count": 1,
+    "title": "Ragged Atlas Dale Inlet",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "a133f4c6-a599-40da-af63-c1420c4a42a2",
+     "title": "Rustic Hollow Letter Wharf",
+     "primary-type": "Album",
+     "secondary-types": [
+      "Live"
+     ]
+    },
+    "date": "2007-12-20",
+    "country": "GB",
+    "barcode": "",
+    "label-info": [
+     {
+      "label": {
+       "id": "a667e708-05c7-41ee-a261-4ad825e5539c",
+       "name": "Southern Dale"
+      }
+     }
+    ],
+    "track-count": 1,
+    "media": [
+     {
+      "id": "53f3c082-5d1a-4f7b-ae9c-bd927d5f553c",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 1
+     }
+    ]
+   },
+   {
+    "id": "26aaeb04-6438-4109-a085-3f2abfb5a037",
+    "score": 86,
+    "count": 1,
+    "title": "Hollow Junction Needle Fable",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "0a898185-a57e-4f2f-abf6-e4c71053af22",
+     "title": "Late Copse Sandbar Parade",
+     "primary-type": "Album",
+     "secondary-types": [
+      "Live"
+     ]
+    },
+    "date": "2017-06-04",
+    "country": "XW",
+    "track-count": 1,
+    "media": [
+     {
+      "id": "8d07dfd1-c8d7-4213-a9d5-31a0299d3d4e",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 1
+     }
+    ]
+   },
+   {
+    "id": "936fd8aa-bb5a-4941-a43b-017f03a688a6",
+    "score": 86,
+    "count": 1,
+    "title": "Violet Railway",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "a1a6457f-6282-417a-a816-7df9efc1a199",
+     "title": "Violet Railway",
+     "primary-type": "Album"
+    },
+    "date": "2013-04-01",
+    "country": "XW",
+    "barcode": "141437449481",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 11,
+    "media": [
+     {
+      "id": "ab9882ac-52f6-4223-a44e-f94a428a0fa9",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 11
+     }
+    ]
+   },
+   {
+    "id": "e46dd706-a406-4b39-a214-3f4c93c17d04",
+    "score": 86,
+    "count": 1,
+    "title": "Southern Hollow",
+    "status": "Official",
+    "disambiguation": "",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "5c4d3cd2-115e-4906-a5c8-1389504f0f6c",
+     "title": "Southern Hollow",
+     "primary-type": "Album"
+    },
+    "date": "2004-10-10",
+    "country": "XW",
+    "barcode": "",
+    "label-info": [
+     {
+      "label": {
+       "id": "03153dc2-922f-4b4d-a644-9ea8fb47c24c",
+       "name": "Glass Pavilion"
+      }
+     }
+    ],
+    "track-count": 10,
+    "media": [
+     {
+      "id": "c687c42b-007b-46fa-a935-6bf69f4c427c",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 10
+     }
+    ]
+   },
+   {
+    "id": "25970da4-a3cd-419b-ae89-96aa9c74ac88",
+    "score": 86,
+    "count": 1,
+    "title": "Ashen Pier Mirror Field",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "f9dc18eb-d57e-4430-a67d-2385027ca229",
+     "title": "Ashen Pier Mirror Field",
+     "primary-type": "Album",
+     "secondary-types": [
+      "Compilation",
+      "Remix"
+     ]
+    },
+    "date": "2008-10-11",
+    "country": "XW",
+    "label-info": [
+     {
+      "label": {
+       "id": "785524b5-17d2-4533-aec6-199611ff5114",
+       "name": "Ivory Alcove Causeway"
+      }
+     }
+    ],
+    "track-count": 19,
+    "media": [
+     {
+      "id": "018ac650-a810-4e0e-ae86-bde8f61fb8b8",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 19
+     }
+    ]
+   },
+   {
+    "id": "308af3a9-b3cb-4e9c-ac9b-28d7076ea280",
+    "score": 86,
+    "count": 1,
+    "title": "Wild Window Atlas Ledger",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "82a144e0-4536-4598-a9a5-10f568f3a530",
+     "title": "Wild Window Atlas Ledger",
+     "primary-type": "Album"
+    },
+    "date": "2008-02-18",
+    "country": "XW",
+    "label-info": [
+     {
+      "label": {
+       "id": "03153dc2-922f-4b4d-a644-9ea8fb47c24c",
+       "name": "Glass Pavilion"
+      }
+     }
+    ],
+    "track-count": 8,
+    "media": [
+     {
+      "id": "c260cb79-2ed5-49bc-ab6f-5d87442dc658",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 8
+     }
+    ]
+   },
+   {
+    "id": "db2ba0d1-b723-4fb7-a03f-e96c4d125d05",
+    "score": 86,
+    "count": 1,
+    "title": "Sudden Letter",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "341ec716-1645-49d9-aa73-8cbb6e38c083",
+     "title": "Sudden Letter",
+     "primary-type": "Album"
+    },
+    "date": "2022-08-06",
+    "country": "XW",
+    "barcode": "129120032537",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 12,
+    "media": [
+     {
+      "id": "be2e970f-e4ef-4b50-a6d0-a62c5b44f7df",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 12
+     }
+    ]
+   },
+   {
+    "id": "94678077-d89e-4f0d-ad07-343626f951ba",
+    "score": 86,
+    "count": 1,
+    "title": "Northern Quarry Avenue Cliff",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "c4a6c499-6054-4b2b-a3c6-8b9671a9ccf9",
+     "title": "Northern Quarry Avenue Cliff",
+     "primary-type": "Album",
+     "secondary-types": [
+      "Live"
+     ]
+    },
+    "date": "2017-01",
+    "country": "XW",
+    "barcode": "",
+    "track-count": 22,
+    "media": [
+     {
+      "id": "65e3de4d-8ad8-4681-aa58-cd5ab54a7131",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 22
+     }
+    ]
+   },
+   {
+    "id": "f23d2d84-94f2-483d-a80b-b61f4ce46dd8",
+    "score": 86,
+    "count": 1,
+    "title": "Distant Chapel Mirror Window",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "joinphrase": ", ",
+      "name": "Violet Valley",
+      "artist": {
+       "id": "ad18b4e2-6be1-48b4-ade1-520654fe376f",
+       "name": "Plain Engine",
+       "disambiguation": ""
+      }
+     },
+     {
+      "joinphrase": ", ",
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     },
+     {
+      "name": "Northern Valley",
+      "artist": {
+       "id": "9c6b44b0-6c73-4dbb-abfb-4c620a4df182",
+       "name": "Northern Valley"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "981f4017-ef82-4f5b-a47e-18ce57c01501",
+     "title": "Distant Chapel Mirror Window",
+     "primary-type": "Album",
+     "secondary-types": [
+      "Remix"
+     ]
+    },
+    "date": "2006-01-01",
+    "country": "US",
+    "label-info": [
+     {
+      "label": {
+       "id": "03153dc2-922f-4b4d-a644-9ea8fb47c24c",
+       "name": "Glass Pavilion"
+      }
+     }
+    ],
+    "track-count": 10,
+    "media": [
+     {
+      "id": "33bfa580-22d8-47de-a77a-7d9ab1224bd0",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 10
+     }
+    ]
+   },
+   {
+    "id": "f2aa1acf-3b06-4177-a58e-5f1f9a2b4597",
+    "score": 86,
+    "count": 1,
+    "title": "Western Alcove Pier Current",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "d179b73f-76fa-4e82-a0d8-9633b6bb0542",
+     "title": "Western Alcove Pier Current",
+     "primary-type": "Album"
+    },
+    "date": "2013-05-08",
+    "country": "XW",
+    "barcode": "767149549147",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 11,
+    "media": [
+     {
+      "id": "79c25a4d-0347-44d7-a335-a077c7b50e2c",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 11
+     }
+    ]
+   },
+   {
+    "id": "4fbfce8b-7584-4208-aca6-8d36d8034423",
+    "score": 86,
+    "count": 1,
+    "title": "Western Alcove Pier Current",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "d179b73f-76fa-4e82-a0d8-9633b6bb0542",
+     "title": "Western Alcove Pier Current",
+     "primary-type": "Album"
+    },
+    "barcode": "9066207565706",
+    "label-info": [
+     {
+      "label": {
+       "id": "74f60ee3-40e8-442e-af40-427eb286df6a",
+       "name": "Copper Letter"
+      }
+     }
+    ],
+    "track-count": 11,
+    "media": [
+     {
+      "id": "525db8f3-51b3-43dd-abe9-f59142cded1a",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 11
+     }
+    ]
+   }
+  ]
+ }
+}

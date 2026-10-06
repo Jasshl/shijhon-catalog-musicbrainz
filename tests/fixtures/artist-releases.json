@@ -1,0 +1,2041 @@
+{
+ "name": "artist-releases",
+ "url": "https://musicbrainz.org/ws/2/release",
+ "params": {
+  "artist": "d636fb81-50e0-48b3-acce-f81f254bb282",
+  "status": "official",
+  "type": "album|ep|single",
+  "inc": "release-groups+media+artist-credits",
+  "limit": "100",
+  "fmt": "json"
+ },
+ "status": 200,
+ "body": {
+  "release-offset": 0,
+  "release-count": 34,
+  "releases": [
+   {
+    "status": "Official",
+    "id": "c423b64c-915c-42e2-a85b-41a3203a02b0",
+    "release-group": {
+     "first-release-date": "2019-08-10",
+     "title": "Pale Lantern Sluice Letter",
+     "artist-credit": [
+      {
+       "joinphrase": "",
+       "name": "Silver Railway",
+       "artist": {
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+        "disambiguation": "",
+        "country": "CA",
+        "name": "Silver Railway",
+        "type": "Group"
+       }
+      }
+     ],
+     "id": "ec8d2c16-13d5-4b6e-a692-5702f4534182",
+     "secondary-types": [],
+     "disambiguation": "",
+     "primary-type": "Single"
+    },
+    "barcode": "0120991538963",
+    "date": "2019-08-10",
+    "cover-art-archive": {
+     "back": false,
+     "artwork": true,
+     "front": true,
+     "count": 1,
+     "darkened": false
+    },
+    "disambiguation": "",
+    "artist-credit": [
+     {
+      "artist": {
+       "disambiguation": "",
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "country": "CA",
+       "type": "Group",
+       "name": "Silver Railway"
+      },
+      "joinphrase": "",
+      "name": "Silver Railway"
+     }
+    ],
+    "country": "AL",
+    "title": "Pale Lantern Sluice Letter",
+    "media": [
+     {
+      "title": "",
+      "id": "8ff36313-0af7-4cb8-ac0c-e8f12949919c",
+      "position": 1,
+      "format": "Digital Media",
+      "track-count": 2
+     }
+    ]
+   },
+   {
+    "country": "GB",
+    "title": "Crimson Engine Window",
+    "artist-credit": [
+     {
+      "artist": {
+       "country": "CA",
+       "disambiguation": "",
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "type": "Group",
+       "name": "Silver Railway"
+      },
+      "name": "Silver Railway",
+      "joinphrase": ""
+     }
+    ],
+    "disambiguation": "",
+    "media": [
+     {
+      "track-count": 12,
+      "title": "",
+      "id": "a0146fe9-1f34-4143-abd2-09a13c90bb33",
+      "position": 1,
+      "format": "CD"
+     }
+    ],
+    "id": "830fe01d-be98-402f-a3f3-dbec185aa067",
+    "status": "Official",
+    "barcode": null,
+    "date": "2019-10-07",
+    "cover-art-archive": {
+     "artwork": true,
+     "front": true,
+     "count": 2,
+     "back": true,
+     "darkened": false
+    },
+    "release-group": {
+     "title": "Crimson Engine Window",
+     "artist-credit": [
+      {
+       "joinphrase": "",
+       "name": "Silver Railway",
+       "artist": {
+        "disambiguation": "",
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+        "country": "CA",
+        "name": "Silver Railway",
+        "type": "Group"
+       }
+      }
+     ],
+     "id": "921677c5-2a16-4166-a11f-a5fd5b3820c2",
+     "secondary-types": [
+      "Compilation"
+     ],
+     "disambiguation": "",
+     "primary-type": "EP",
+     "first-release-date": "2019-10-07"
+    }
+   },
+   {
+    "status": "Official",
+    "id": "09052bb5-f523-44f1-a534-5e3f98fd10b8",
+    "release-group": {
+     "first-release-date": "2014-09-08",
+     "primary-type": "Album",
+     "artist-credit": [
+      {
+       "artist": {
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+        "disambiguation": "",
+        "country": "CA",
+        "type": "Group",
+        "name": "Silver Railway"
+       },
+       "joinphrase": "",
+       "name": "Silver Railway"
+      }
+     ],
+     "id": "6988d30e-01e7-4fb4-abf5-87f93e34247a",
+     "secondary-types": [],
+     "disambiguation": "",
+     "title": "Silent Parade"
+    },
+    "barcode": "492770289138",
+    "cover-art-archive": {
+     "back": false,
+     "front": true,
+     "artwork": true,
+     "count": 1,
+     "darkened": false
+    },
+    "date": "2014-09-08",
+    "artist-credit": [
+     {
+      "artist": {
+       "country": "CA",
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "disambiguation": "",
+       "type": "Group",
+       "name": "Silver Railway"
+      },
+      "name": "Silver Railway",
+      "joinphrase": ""
+     }
+    ],
+    "disambiguation": "",
+    "country": "US",
+    "title": "Silent Parade",
+    "media": [
+     {
+      "format": "CD",
+      "position": 1,
+      "id": "0ec44c41-3c19-4f38-abb3-ee69d12a03a8",
+      "title": "",
+      "track-count": 10
+     }
+    ]
+   },
+   {
+    "media": [
+     {
+      "id": "f2158f0a-fc56-4ed3-a65c-875c57484205",
+      "position": 1,
+      "format": "CD",
+      "title": "",
+      "track-count": 13
+     }
+    ],
+    "disambiguation": "",
+    "artist-credit": [
+     {
+      "name": "Silver Railway",
+      "joinphrase": "",
+      "artist": {
+       "name": "Silver Railway",
+       "type": "Group",
+       "disambiguation": "",
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "country": "CA"
+      }
+     }
+    ],
+    "country": "CA",
+    "title": "Sudden Byway",
+    "release-group": {
+     "first-release-date": "2019-10-07",
+     "title": "Sudden Byway",
+     "artist-credit": [
+      {
+       "name": "Silver Railway",
+       "joinphrase": "",
+       "artist": {
+        "name": "Silver Railway",
+        "type": "Group",
+        "country": "CA",
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+        "disambiguation": ""
+       }
+      }
+     ],
+     "disambiguation": "",
+     "id": "9074c102-3f95-479a-af41-3071f896de79",
+     "secondary-types": [],
+     "primary-type": "Album"
+    },
+    "barcode": "969232666693",
+    "cover-art-archive": {
+     "darkened": false,
+     "count": 0,
+     "front": false,
+     "artwork": false,
+     "back": false
+    },
+    "date": "2019-10-07",
+    "status": "Official",
+    "id": "2300f198-681a-4739-ad1a-ef20afcceba6"
+   },
+   {
+    "media": [
+     {
+      "track-count": 13,
+      "format": "CD",
+      "position": 1,
+      "id": "769f6208-4fa7-4c6d-a3b0-231c5a25c4a0",
+      "title": ""
+     }
+    ],
+    "title": "Sudden Byway",
+    "country": "GB",
+    "disambiguation": "",
+    "artist-credit": [
+     {
+      "artist": {
+       "disambiguation": "",
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "country": "CA",
+       "type": "Group",
+       "name": "Silver Railway"
+      },
+      "joinphrase": "",
+      "name": "Silver Railway"
+     }
+    ],
+    "cover-art-archive": {
+     "darkened": false,
+     "artwork": false,
+     "front": false,
+     "count": 0,
+     "back": false
+    },
+    "date": "2019-10-07",
+    "barcode": "4949781626778",
+    "release-group": {
+     "first-release-date": "2019-10-07",
+     "artist-credit": [
+      {
+       "name": "Silver Railway",
+       "joinphrase": "",
+       "artist": {
+        "type": "Group",
+        "name": "Silver Railway",
+        "country": "CA",
+        "disambiguation": "",
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282"
+       }
+      }
+     ],
+     "disambiguation": "",
+     "id": "9074c102-3f95-479a-af41-3071f896de79",
+     "secondary-types": [],
+     "primary-type": "Album",
+     "title": "Sudden Byway"
+    },
+    "status": "Official",
+    "id": "801fe396-d492-41aa-a8b6-259d44d41341"
+   },
+   {
+    "release-group": {
+     "first-release-date": "2019-09-22",
+     "title": "Warm Lighthouse Meadow Dale",
+     "artist-credit": [
+      {
+       "artist": {
+        "name": "Silver Railway",
+        "type": "Group",
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+        "disambiguation": "",
+        "country": "CA"
+       },
+       "joinphrase": "",
+       "name": "Silver Railway"
+      }
+     ],
+     "id": "c432fdea-873c-45f7-ab37-70f89cc82ad9",
+     "disambiguation": "",
+     "secondary-types": [],
+     "primary-type": "EP"
+    },
+    "barcode": "418942760923",
+    "cover-art-archive": {
+     "back": false,
+     "front": true,
+     "count": 1,
+     "artwork": true,
+     "darkened": false
+    },
+    "date": "2019-09-22",
+    "id": "5cfb1172-0444-466f-a1d0-ee80e2cfb289",
+    "status": "Official",
+    "media": [
+     {
+      "format": "Digital Media",
+      "position": 1,
+      "id": "d9fb76a3-5608-4fda-a1a1-4775e263085f",
+      "title": "",
+      "track-count": 4
+     }
+    ],
+    "artist-credit": [
+     {
+      "artist": {
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "disambiguation": "",
+       "country": "CA",
+       "type": "Group",
+       "name": "Silver Railway"
+      },
+      "name": "Silver Railway",
+      "joinphrase": ""
+     }
+    ],
+    "disambiguation": "",
+    "country": "CA",
+    "title": "Warm Lighthouse Meadow Dale"
+   },
+   {
+    "id": "41985c11-f88f-4b10-a5b2-229f73c8260c",
+    "status": "Official",
+    "release-group": {
+     "title": "Sudden Byway",
+     "primary-type": "Album",
+     "id": "9074c102-3f95-479a-af41-3071f896de79",
+     "disambiguation": "",
+     "secondary-types": [],
+     "artist-credit": [
+      {
+       "joinphrase": "",
+       "name": "Silver Railway",
+       "artist": {
+        "country": "CA",
+        "disambiguation": "",
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+        "name": "Silver Railway",
+        "type": "Group"
+       }
+      }
+     ],
+     "first-release-date": "2019-10-07"
+    },
+    "barcode": null,
+    "cover-art-archive": {
+     "back": false,
+     "artwork": false,
+     "front": false,
+     "count": 0,
+     "darkened": false
+    },
+    "date": "2019-10-07",
+    "disambiguation": "",
+    "artist-credit": [
+     {
+      "name": "Silver Railway",
+      "joinphrase": "",
+      "artist": {
+       "disambiguation": "",
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "country": "CA",
+       "name": "Silver Railway",
+       "type": "Group"
+      }
+     }
+    ],
+    "country": "GB",
+    "title": "Sudden Byway",
+    "media": [
+     {
+      "position": 1,
+      "id": "b60c4ed4-12cd-45d4-a177-70ff18edd329",
+      "format": "CD",
+      "title": "Sudden Byway",
+      "track-count": 13
+     },
+     {
+      "track-count": 12,
+      "position": 2,
+      "id": "1d91caea-2a1d-418c-a04a-a9ec0643766a",
+      "format": "CD",
+      "title": "Golden Atlas Meadow"
+     }
+    ]
+   },
+   {
+    "title": "Silver Railway",
+    "country": "XE",
+    "artist-credit": [
+     {
+      "joinphrase": "",
+      "name": "Silver Railway",
+      "artist": {
+       "name": "Silver Railway",
+       "type": "Group",
+       "disambiguation": "",
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "country": "CA"
+      }
+     }
+    ],
+    "disambiguation": "",
+    "media": [
+     {
+      "track-count": 9,
+      "id": "b9861df7-3fb6-4b1b-a025-d4911b0879dd",
+      "position": 1,
+      "format": "CD",
+      "title": ""
+     }
+    ],
+    "status": "Official",
+    "id": "cb8692a2-7fba-4d48-ae9b-0e34af997f3b",
+    "date": "2011-07-21",
+    "cover-art-archive": {
+     "darkened": false,
+     "back": false,
+     "front": true,
+     "count": 1,
+     "artwork": true
+    },
+    "barcode": "8657902601427",
+    "release-group": {
+     "first-release-date": "2010",
+     "title": "Silver Railway",
+     "primary-type": "Album",
+     "artist-credit": [
+      {
+       "artist": {
+        "disambiguation": "",
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+        "country": "CA",
+        "type": "Group",
+        "name": "Silver Railway"
+       },
+       "name": "Silver Railway",
+       "joinphrase": ""
+      }
+     ],
+     "id": "5a5af0af-3295-42e9-a717-94952caf77f5",
+     "disambiguation": "",
+     "secondary-types": []
+    }
+   },
+   {
+    "media": [
+     {
+      "track-count": 10,
+      "title": "",
+      "format": "Digital Media",
+      "id": "12a55dc5-7170-4d10-a4ce-c6d711777fef",
+      "position": 1
+     }
+    ],
+    "title": "Silent Parade",
+    "country": "XW",
+    "artist-credit": [
+     {
+      "artist": {
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "disambiguation": "",
+       "country": "CA",
+       "type": "Group",
+       "name": "Silver Railway"
+      },
+      "joinphrase": "",
+      "name": "Silver Railway"
+     }
+    ],
+    "disambiguation": "",
+    "cover-art-archive": {
+     "back": false,
+     "count": 1,
+     "front": true,
+     "artwork": true,
+     "darkened": false
+    },
+    "date": "2014-09-08",
+    "barcode": "322775665160",
+    "release-group": {
+     "first-release-date": "2014-09-08",
+     "primary-type": "Album",
+     "artist-credit": [
+      {
+       "artist": {
+        "name": "Silver Railway",
+        "type": "Group",
+        "disambiguation": "",
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+        "country": "CA"
+       },
+       "name": "Silver Railway",
+       "joinphrase": ""
+      }
+     ],
+     "disambiguation": "",
+     "id": "6988d30e-01e7-4fb4-abf5-87f93e34247a",
+     "secondary-types": [],
+     "title": "Silent Parade"
+    },
+    "status": "Official",
+    "id": "823198f7-811e-49cb-a2d1-0d1be1b6a58d"
+   },
+   {
+    "release-group": {
+     "first-release-date": "2019-07-06",
+     "primary-type": "Single",
+     "artist-credit": [
+      {
+       "name": "Silver Railway",
+       "joinphrase": "",
+       "artist": {
+        "name": "Silver Railway",
+        "type": "Group",
+        "country": "CA",
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+        "disambiguation": ""
+       }
+      }
+     ],
+     "disambiguation": "",
+     "id": "5775f82e-3e30-4c87-a933-9fc9896000b9",
+     "secondary-types": [],
+     "title": "Wild Morning"
+    },
+    "barcode": "3975516249016",
+    "cover-art-archive": {
+     "count": 0,
+     "front": false,
+     "artwork": false,
+     "back": false,
+     "darkened": false
+    },
+    "date": "2019-07-06",
+    "id": "bf918964-f2f1-4730-a7fc-4463e5743e8c",
+    "status": "Official",
+    "media": [
+     {
+      "track-count": 1,
+      "title": "",
+      "format": "Digital Media",
+      "position": 1,
+      "id": "77c445b5-2a6a-47a3-adbc-373b69072241"
+     }
+    ],
+    "disambiguation": "",
+    "artist-credit": [
+     {
+      "joinphrase": "",
+      "name": "Silver Railway",
+      "artist": {
+       "type": "Group",
+       "name": "Silver Railway",
+       "disambiguation": "",
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "country": "CA"
+      }
+     }
+    ],
+    "country": "DZ",
+    "title": "Wild Morning"
+   },
+   {
+    "media": [
+     {
+      "track-count": 10,
+      "title": "",
+      "format": "CD",
+      "position": 1,
+      "id": "93acb704-bebe-4cfc-acfb-5777a57ee8a0"
+     }
+    ],
+    "title": "Silent Parade",
+    "country": "XE",
+    "disambiguation": "",
+    "artist-credit": [
+     {
+      "artist": {
+       "name": "Silver Railway",
+       "type": "Group",
+       "disambiguation": "",
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "country": "CA"
+      },
+      "name": "Silver Railway",
+      "joinphrase": ""
+     }
+    ],
+    "cover-art-archive": {
+     "back": false,
+     "front": true,
+     "artwork": true,
+     "count": 1,
+     "darkened": false
+    },
+    "date": "2014-09-08",
+    "barcode": "4608465355167",
+    "release-group": {
+     "title": "Silent Parade",
+     "disambiguation": "",
+     "id": "6988d30e-01e7-4fb4-abf5-87f93e34247a",
+     "secondary-types": [],
+     "artist-credit": [
+      {
+       "artist": {
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+        "disambiguation": "",
+        "country": "CA",
+        "type": "Group",
+        "name": "Silver Railway"
+       },
+       "name": "Silver Railway",
+       "joinphrase": ""
+      }
+     ],
+     "primary-type": "Album",
+     "first-release-date": "2014-09-08"
+    },
+    "id": "239a95fc-93ea-4480-ac4a-65fa314d1ef6",
+    "status": "Official"
+   },
+   {
+    "media": [
+     {
+      "id": "542af90c-db67-4d14-a220-ebc6719557a5",
+      "position": 1,
+      "format": "12\" Vinyl",
+      "title": "Sudden Byway",
+      "track-count": 14
+     },
+     {
+      "track-count": 12,
+      "title": "Crimson Engine Window",
+      "position": 2,
+      "id": "4db4fcfc-852c-40f4-aec1-46aa82f32c6c",
+      "format": "CD"
+     }
+    ],
+    "disambiguation": "",
+    "artist-credit": [
+     {
+      "name": "Silver Railway",
+      "joinphrase": "",
+      "artist": {
+       "type": "Group",
+       "name": "Silver Railway",
+       "disambiguation": "",
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "country": "CA"
+      }
+     }
+    ],
+    "title": "Sudden Byway",
+    "country": "GB",
+    "release-group": {
+     "title": "Sudden Byway",
+     "artist-credit": [
+      {
+       "artist": {
+        "disambiguation": "",
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+        "country": "CA",
+        "name": "Silver Railway",
+        "type": "Group"
+       },
+       "joinphrase": "",
+       "name": "Silver Railway"
+      }
+     ],
+     "secondary-types": [],
+     "id": "9074c102-3f95-479a-af41-3071f896de79",
+     "disambiguation": "",
+     "primary-type": "Album",
+     "first-release-date": "2019-10-07"
+    },
+    "date": "2019-10-07",
+    "cover-art-archive": {
+     "back": false,
+     "count": 0,
+     "front": false,
+     "artwork": false,
+     "darkened": false
+    },
+    "barcode": "6084917549341",
+    "status": "Official",
+    "id": "8345219e-820f-4f53-aa2c-b15e30cf7a56"
+   },
+   {
+    "title": "Wild Morning",
+    "country": "CA",
+    "artist-credit": [
+     {
+      "artist": {
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "disambiguation": "",
+       "country": "CA",
+       "type": "Group",
+       "name": "Silver Railway"
+      },
+      "name": "Silver Railway",
+      "joinphrase": ""
+     }
+    ],
+    "disambiguation": "",
+    "media": [
+     {
+      "track-count": 1,
+      "format": "Digital Media",
+      "id": "83106842-7ffb-44fb-a88a-ff1b162a2ca3",
+      "position": 1,
+      "title": ""
+     }
+    ],
+    "id": "b3c82dca-f80d-4f2a-ab83-af29c1ec111a",
+    "status": "Official",
+    "date": "2019-07-06",
+    "cover-art-archive": {
+     "back": false,
+     "front": false,
+     "count": 0,
+     "artwork": false,
+     "darkened": false
+    },
+    "barcode": null,
+    "release-group": {
+     "first-release-date": "2019-07-06",
+     "title": "Wild Morning",
+     "primary-type": "Single",
+     "disambiguation": "",
+     "id": "5775f82e-3e30-4c87-a933-9fc9896000b9",
+     "secondary-types": [],
+     "artist-credit": [
+      {
+       "artist": {
+        "name": "Silver Railway",
+        "type": "Group",
+        "country": "CA",
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+        "disambiguation": ""
+       },
+       "name": "Silver Railway",
+       "joinphrase": ""
+      }
+     ]
+    }
+   },
+   {
+    "date": "2015",
+    "cover-art-archive": {
+     "front": true,
+     "artwork": true,
+     "count": 1,
+     "back": false,
+     "darkened": false
+    },
+    "barcode": null,
+    "release-group": {
+     "first-release-date": "2015",
+     "title": "Southern Morning",
+     "primary-type": "Single",
+     "id": "0dfd9a95-a2ec-4ee7-a147-24642f95f60c",
+     "secondary-types": [],
+     "disambiguation": "",
+     "artist-credit": [
+      {
+       "artist": {
+        "country": "CA",
+        "disambiguation": "",
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+        "type": "Group",
+        "name": "Silver Railway"
+       },
+       "joinphrase": "",
+       "name": "Silver Railway"
+      }
+     ]
+    },
+    "id": "73cc0e26-f129-463c-ac0c-f47a58b3dabe",
+    "status": "Official",
+    "media": [
+     {
+      "track-count": 3,
+      "title": "",
+      "id": "688aa8f4-b4a3-4e0a-a2c0-485ba7489024",
+      "position": 1,
+      "format": "7\" Vinyl"
+     }
+    ],
+    "title": "Southern Morning",
+    "country": null,
+    "disambiguation": "",
+    "artist-credit": [
+     {
+      "artist": {
+       "country": "CA",
+       "disambiguation": "",
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "type": "Group",
+       "name": "Silver Railway"
+      },
+      "joinphrase": "",
+      "name": "Silver Railway"
+     }
+    ]
+   },
+   {
+    "media": [
+     {
+      "track-count": 10,
+      "title": "",
+      "format": "CD",
+      "position": 1,
+      "id": "dad1aa18-4a6b-459c-aee0-1f31abf61932"
+     }
+    ],
+    "disambiguation": "",
+    "artist-credit": [
+     {
+      "artist": {
+       "type": "Group",
+       "name": "Silver Railway",
+       "country": "CA",
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "disambiguation": ""
+      },
+      "joinphrase": "",
+      "name": "Silver Railway"
+     }
+    ],
+    "country": "JP",
+    "title": "Silver Railway",
+    "release-group": {
+     "title": "Silver Railway",
+     "primary-type": "Album",
+     "artist-credit": [
+      {
+       "joinphrase": "",
+       "name": "Silver Railway",
+       "artist": {
+        "name": "Silver Railway",
+        "type": "Group",
+        "country": "CA",
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+        "disambiguation": ""
+       }
+      }
+     ],
+     "id": "5a5af0af-3295-42e9-a717-94952caf77f5",
+     "secondary-types": [],
+     "disambiguation": "",
+     "first-release-date": "2010"
+    },
+    "barcode": "5067604868367",
+    "cover-art-archive": {
+     "darkened": false,
+     "back": false,
+     "front": true,
+     "artwork": true,
+     "count": 1
+    },
+    "date": "2011-07-16",
+    "id": "c3cc5b87-b5ef-410d-a2d7-fc146d8f50cb",
+    "status": "Official"
+   },
+   {
+    "title": "Sudden Byway",
+    "country": "US",
+    "artist-credit": [
+     {
+      "artist": {
+       "type": "Group",
+       "name": "Silver Railway",
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "disambiguation": "",
+       "country": "CA"
+      },
+      "name": "Silver Railway",
+      "joinphrase": ""
+     }
+    ],
+    "disambiguation": "",
+    "media": [
+     {
+      "track-count": 14,
+      "format": "Cassette",
+      "position": 1,
+      "id": "fa7a9d05-1d63-4b32-ac9b-eefa0be6d68a",
+      "title": ""
+     }
+    ],
+    "status": "Official",
+    "id": "7299483b-508c-4a75-a3e5-11151645933b",
+    "cover-art-archive": {
+     "darkened": false,
+     "back": false,
+     "front": false,
+     "count": 0,
+     "artwork": false
+    },
+    "date": "2019-10-07",
+    "barcode": "272976962045",
+    "release-group": {
+     "primary-type": "Album",
+     "secondary-types": [],
+     "id": "9074c102-3f95-479a-af41-3071f896de79",
+     "disambiguation": "",
+     "artist-credit": [
+      {
+       "artist": {
+        "name": "Silver Railway",
+        "type": "Group",
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+        "disambiguation": "",
+        "country": "CA"
+       },
+       "name": "Silver Railway",
+       "joinphrase": ""
+      }
+     ],
+     "title": "Sudden Byway",
+     "first-release-date": "2019-10-07"
+    }
+   },
+   {
+    "barcode": "355960278293",
+    "cover-art-archive": {
+     "count": 4,
+     "front": true,
+     "artwork": true,
+     "back": true,
+     "darkened": false
+    },
+    "date": "2014-09-08",
+    "release-group": {
+     "primary-type": "Album",
+     "artist-credit": [
+      {
+       "name": "Silver Railway",
+       "joinphrase": "",
+       "artist": {
+        "name": "Silver Railway",
+        "type": "Group",
+        "country": "CA",
+        "disambiguation": "",
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282"
+       }
+      }
+     ],
+     "id": "6988d30e-01e7-4fb4-abf5-87f93e34247a",
+     "disambiguation": "",
+     "secondary-types": [],
+     "title": "Silent Parade",
+     "first-release-date": "2014-09-08"
+    },
+    "status": "Official",
+    "id": "27edae4c-266c-4099-a4d8-e263f2da897c",
+    "media": [
+     {
+      "format": "12\" Vinyl",
+      "id": "6223608c-07d0-4130-ad30-445380610b93",
+      "position": 1,
+      "title": "",
+      "track-count": 10
+     }
+    ],
+    "country": null,
+    "title": "Silent Parade",
+    "disambiguation": "",
+    "artist-credit": [
+     {
+      "name": "Silver Railway",
+      "joinphrase": "",
+      "artist": {
+       "country": "CA",
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "disambiguation": "",
+       "type": "Group",
+       "name": "Silver Railway"
+      }
+     }
+    ]
+   },
+   {
+    "release-group": {
+     "id": "9074c102-3f95-479a-af41-3071f896de79",
+     "disambiguation": "",
+     "secondary-types": [],
+     "artist-credit": [
+      {
+       "name": "Silver Railway",
+       "joinphrase": "",
+       "artist": {
+        "country": "CA",
+        "disambiguation": "",
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+        "name": "Silver Railway",
+        "type": "Group"
+       }
+      }
+     ],
+     "primary-type": "Album",
+     "title": "Sudden Byway",
+     "first-release-date": "2019-10-07"
+    },
+    "barcode": "607283152004",
+    "date": "2019-10-07",
+    "cover-art-archive": {
+     "darkened": false,
+     "back": true,
+     "front": true,
+     "count": 5,
+     "artwork": true
+    },
+    "status": "Official",
+    "id": "da4ea156-9b19-46ec-a963-ae3a2bceb0c4",
+    "media": [
+     {
+      "track-count": 14,
+      "format": "CD",
+      "id": "c836bb10-aac4-47ef-a51c-74fcf2046efb",
+      "position": 1,
+      "title": ""
+     }
+    ],
+    "artist-credit": [
+     {
+      "artist": {
+       "type": "Group",
+       "name": "Silver Railway",
+       "disambiguation": "",
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "country": "CA"
+      },
+      "name": "Silver Railway",
+      "joinphrase": ""
+     }
+    ],
+    "disambiguation": "",
+    "country": "US",
+    "title": "Sudden Byway"
+   },
+   {
+    "disambiguation": "",
+    "artist-credit": [
+     {
+      "artist": {
+       "disambiguation": "",
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "country": "CA",
+       "name": "Silver Railway",
+       "type": "Group"
+      },
+      "name": "Silver Railway",
+      "joinphrase": ""
+     }
+    ],
+    "title": "Amber Window",
+    "country": "GB",
+    "media": [
+     {
+      "track-count": 2,
+      "id": "7aab2252-89db-4225-aabc-ea4f83b23529",
+      "position": 1,
+      "format": "7\" Vinyl",
+      "title": ""
+     }
+    ],
+    "status": "Official",
+    "id": "5d3e6951-7e0d-4b34-a59e-6009bc26ff40",
+    "release-group": {
+     "title": "Amber Window",
+     "primary-type": "Single",
+     "artist-credit": [
+      {
+       "name": "Silver Railway",
+       "joinphrase": "",
+       "artist": {
+        "name": "Silver Railway",
+        "type": "Group",
+        "country": "CA",
+        "disambiguation": "",
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282"
+       }
+      }
+     ],
+     "id": "46525c1e-a418-407d-a8d0-74ad16b6a907",
+     "secondary-types": [],
+     "disambiguation": "",
+     "first-release-date": "2014-09"
+    },
+    "date": "2014-09",
+    "cover-art-archive": {
+     "darkened": false,
+     "front": true,
+     "artwork": true,
+     "count": 4,
+     "back": true
+    },
+    "barcode": null
+   },
+   {
+    "id": "9ac58b23-a287-47e4-ab22-318fb4ab81b2",
+    "status": "Official",
+    "barcode": null,
+    "cover-art-archive": {
+     "back": false,
+     "front": true,
+     "count": 1,
+     "artwork": true,
+     "darkened": false
+    },
+    "date": "2019-10-07",
+    "release-group": {
+     "first-release-date": "2019-10-07",
+     "primary-type": "Album",
+     "artist-credit": [
+      {
+       "artist": {
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+        "disambiguation": "",
+        "country": "CA",
+        "name": "Silver Railway",
+        "type": "Group"
+       },
+       "joinphrase": "",
+       "name": "Silver Railway"
+      }
+     ],
+     "id": "9074c102-3f95-479a-af41-3071f896de79",
+     "disambiguation": "",
+     "secondary-types": [],
+     "title": "Sudden Byway"
+    },
+    "country": "AU",
+    "title": "Sudden Byway",
+    "disambiguation": "",
+    "artist-credit": [
+     {
+      "artist": {
+       "type": "Group",
+       "name": "Silver Railway",
+       "country": "CA",
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "disambiguation": ""
+      },
+      "name": "Silver Railway",
+      "joinphrase": ""
+     }
+    ],
+    "media": [
+     {
+      "track-count": 14,
+      "title": "",
+      "id": "06809981-8bbf-4501-acce-1054394e2f6c",
+      "position": 1,
+      "format": "Digital Media"
+     }
+    ]
+   },
+   {
+    "barcode": null,
+    "date": "2014-09-08",
+    "cover-art-archive": {
+     "darkened": false,
+     "back": false,
+     "front": true,
+     "count": 1,
+     "artwork": true
+    },
+    "release-group": {
+     "first-release-date": "2014-09-08",
+     "title": "Silent Parade",
+     "artist-credit": [
+      {
+       "joinphrase": "",
+       "name": "Silver Railway",
+       "artist": {
+        "disambiguation": "",
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+        "country": "CA",
+        "type": "Group",
+        "name": "Silver Railway"
+       }
+      }
+     ],
+     "id": "6988d30e-01e7-4fb4-abf5-87f93e34247a",
+     "secondary-types": [],
+     "disambiguation": "",
+     "primary-type": "Album"
+    },
+    "id": "db812f4a-2e38-4d97-a175-77e25704bf52",
+    "status": "Official",
+    "media": [
+     {
+      "track-count": 10,
+      "position": 1,
+      "id": "6c2f0a08-d3bd-43c9-ae06-3e166b1b7b46",
+      "format": "Cassette",
+      "title": ""
+     }
+    ],
+    "country": null,
+    "title": "Silent Parade",
+    "artist-credit": [
+     {
+      "artist": {
+       "disambiguation": "",
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "country": "CA",
+       "type": "Group",
+       "name": "Silver Railway"
+      },
+      "name": "Silver Railway",
+      "joinphrase": ""
+     }
+    ],
+    "disambiguation": ""
+   },
+   {
+    "media": [
+     {
+      "track-count": 1,
+      "title": "",
+      "id": "fa68b60f-62f4-4ddc-a1bb-2a4f2fe1b47e",
+      "position": 1,
+      "format": "Digital Media"
+     }
+    ],
+    "country": "AL",
+    "title": "Wild Morning",
+    "artist-credit": [
+     {
+      "artist": {
+       "country": "CA",
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "disambiguation": "",
+       "name": "Silver Railway",
+       "type": "Group"
+      },
+      "joinphrase": "",
+      "name": "Silver Railway"
+     }
+    ],
+    "disambiguation": "",
+    "barcode": "3975516249016",
+    "date": "2019-07-06",
+    "cover-art-archive": {
+     "darkened": false,
+     "count": 1,
+     "front": true,
+     "artwork": true,
+     "back": false
+    },
+    "release-group": {
+     "first-release-date": "2019-07-06",
+     "primary-type": "Single",
+     "artist-credit": [
+      {
+       "artist": {
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+        "disambiguation": "",
+        "country": "CA",
+        "name": "Silver Railway",
+        "type": "Group"
+       },
+       "joinphrase": "",
+       "name": "Silver Railway"
+      }
+     ],
+     "id": "5775f82e-3e30-4c87-a933-9fc9896000b9",
+     "secondary-types": [],
+     "disambiguation": "",
+     "title": "Wild Morning"
+    },
+    "id": "2eca5859-f9e8-43e0-a30e-5d0de764025a",
+    "status": "Official"
+   },
+   {
+    "media": [
+     {
+      "track-count": 14,
+      "format": "Digital Media",
+      "id": "9f3aff73-d97b-4b2c-a87d-1c6b5b45f2d2",
+      "position": 1,
+      "title": ""
+     }
+    ],
+    "artist-credit": [
+     {
+      "joinphrase": "",
+      "name": "Silver Railway",
+      "artist": {
+       "country": "CA",
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "disambiguation": "",
+       "name": "Silver Railway",
+       "type": "Group"
+      }
+     }
+    ],
+    "disambiguation": "",
+    "country": "XE",
+    "title": "Sudden Byway",
+    "release-group": {
+     "primary-type": "Album",
+     "id": "9074c102-3f95-479a-af41-3071f896de79",
+     "secondary-types": [],
+     "disambiguation": "",
+     "artist-credit": [
+      {
+       "name": "Silver Railway",
+       "joinphrase": "",
+       "artist": {
+        "type": "Group",
+        "name": "Silver Railway",
+        "country": "CA",
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+        "disambiguation": ""
+       }
+      }
+     ],
+     "title": "Sudden Byway",
+     "first-release-date": "2019-10-07"
+    },
+    "barcode": "80280377105346",
+    "date": "2019-10-07",
+    "cover-art-archive": {
+     "back": false,
+     "front": true,
+     "artwork": true,
+     "count": 1,
+     "darkened": false
+    },
+    "id": "b6cbb501-2ae1-489f-a0b7-3cc8ffe0f9e9",
+    "status": "Official"
+   },
+   {
+    "release-group": {
+     "first-release-date": "2010",
+     "title": "Silver Railway",
+     "artist-credit": [
+      {
+       "joinphrase": "",
+       "name": "Silver Railway",
+       "artist": {
+        "name": "Silver Railway",
+        "type": "Group",
+        "disambiguation": "",
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+        "country": "CA"
+       }
+      }
+     ],
+     "secondary-types": [],
+     "id": "5a5af0af-3295-42e9-a717-94952caf77f5",
+     "disambiguation": "",
+     "primary-type": "Album"
+    },
+    "barcode": "84114893429149",
+    "date": "2011-01-01",
+    "cover-art-archive": {
+     "back": false,
+     "front": false,
+     "artwork": false,
+     "count": 0,
+     "darkened": false
+    },
+    "status": "Official",
+    "id": "2a79e73c-e6d0-4c84-a279-6ce62334b7e1",
+    "media": [
+     {
+      "title": "",
+      "format": "Digital Media",
+      "id": "155b6be9-6eba-4a68-adf8-6918f33870fc",
+      "position": 1,
+      "track-count": 9
+     }
+    ],
+    "artist-credit": [
+     {
+      "artist": {
+       "name": "Silver Railway",
+       "type": "Group",
+       "country": "CA",
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "disambiguation": ""
+      },
+      "joinphrase": "",
+      "name": "Silver Railway"
+     }
+    ],
+    "disambiguation": "",
+    "country": "CA",
+    "title": "Silver Railway"
+   },
+   {
+    "media": [
+     {
+      "format": "Digital Media",
+      "position": 1,
+      "id": "9eb5fb7e-8070-485c-abc2-02dec055ccd1",
+      "title": "",
+      "track-count": 9
+     }
+    ],
+    "title": "Silver Railway",
+    "country": "AL",
+    "artist-credit": [
+     {
+      "artist": {
+       "type": "Group",
+       "name": "Silver Railway",
+       "disambiguation": "",
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "country": "CA"
+      },
+      "joinphrase": "",
+      "name": "Silver Railway"
+     }
+    ],
+    "disambiguation": "",
+    "cover-art-archive": {
+     "darkened": false,
+     "front": false,
+     "count": 0,
+     "artwork": false,
+     "back": false
+    },
+    "date": "2011-07-21",
+    "barcode": "6930330129542",
+    "release-group": {
+     "title": "Silver Railway",
+     "primary-type": "Album",
+     "disambiguation": "",
+     "id": "5a5af0af-3295-42e9-a717-94952caf77f5",
+     "secondary-types": [],
+     "artist-credit": [
+      {
+       "artist": {
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+        "disambiguation": "",
+        "country": "CA",
+        "type": "Group",
+        "name": "Silver Railway"
+       },
+       "joinphrase": "",
+       "name": "Silver Railway"
+      }
+     ],
+     "first-release-date": "2010"
+    },
+    "id": "583c5745-8b69-4fa8-a775-63c4f0b47887",
+    "status": "Official"
+   },
+   {
+    "release-group": {
+     "first-release-date": "2010",
+     "title": "Wooden Byway",
+     "disambiguation": "",
+     "id": "04b70cb8-1e4b-4d65-a25d-a0a53047cda9",
+     "secondary-types": [],
+     "artist-credit": [
+      {
+       "artist": {
+        "country": "CA",
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+        "disambiguation": "",
+        "name": "Silver Railway",
+        "type": "Group"
+       },
+       "name": "Silver Railway",
+       "joinphrase": ""
+      }
+     ],
+     "primary-type": "Single"
+    },
+    "barcode": null,
+    "date": "2010",
+    "cover-art-archive": {
+     "back": false,
+     "artwork": true,
+     "front": true,
+     "count": 1,
+     "darkened": false
+    },
+    "status": "Official",
+    "id": "828cbefc-1ad1-4335-a3af-de2b87a96e94",
+    "media": [
+     {
+      "title": "",
+      "format": "Cassette",
+      "id": "bb570313-3673-4e77-a13c-9da684cc0845",
+      "position": 1,
+      "track-count": 2
+     }
+    ],
+    "artist-credit": [
+     {
+      "artist": {
+       "type": "Group",
+       "name": "Silver Railway",
+       "country": "CA",
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "disambiguation": ""
+      },
+      "name": "Silver Railway",
+      "joinphrase": ""
+     }
+    ],
+    "disambiguation": "",
+    "country": "CA",
+    "title": "Wooden Byway"
+   },
+   {
+    "title": "Sudden Byway",
+    "country": "XW",
+    "artist-credit": [
+     {
+      "artist": {
+       "type": "Group",
+       "name": "Silver Railway",
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "disambiguation": "",
+       "country": "CA"
+      },
+      "joinphrase": "",
+      "name": "Silver Railway"
+     }
+    ],
+    "disambiguation": "",
+    "media": [
+     {
+      "track-count": 14,
+      "title": "",
+      "format": "Digital Media",
+      "id": "f6bd53d8-0664-4652-a45d-219ec5da8746",
+      "position": 1
+     }
+    ],
+    "id": "49c6f331-6389-44d3-a481-ab630450ce9d",
+    "status": "Official",
+    "cover-art-archive": {
+     "front": true,
+     "artwork": true,
+     "count": 1,
+     "back": false,
+     "darkened": false
+    },
+    "date": "2019-10-07",
+    "barcode": "3156473968670",
+    "release-group": {
+     "title": "Sudden Byway",
+     "artist-credit": [
+      {
+       "joinphrase": "",
+       "name": "Silver Railway",
+       "artist": {
+        "country": "CA",
+        "disambiguation": "",
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+        "type": "Group",
+        "name": "Silver Railway"
+       }
+      }
+     ],
+     "secondary-types": [],
+     "id": "9074c102-3f95-479a-af41-3071f896de79",
+     "disambiguation": "",
+     "primary-type": "Album",
+     "first-release-date": "2019-10-07"
+    }
+   },
+   {
+    "disambiguation": "",
+    "artist-credit": [
+     {
+      "name": "Silver Railway",
+      "joinphrase": "",
+      "artist": {
+       "type": "Group",
+       "name": "Silver Railway",
+       "disambiguation": "",
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "country": "CA"
+      }
+     }
+    ],
+    "country": "XW",
+    "title": "Sudden Byway",
+    "media": [
+     {
+      "format": "Digital Media",
+      "id": "a9c28de2-5036-4766-ad23-dce273895bd2",
+      "position": 1,
+      "title": "",
+      "track-count": 14
+     }
+    ],
+    "status": "Official",
+    "id": "c7e32813-89b1-4b4c-a65c-86eaf2d68836",
+    "release-group": {
+     "artist-credit": [
+      {
+       "joinphrase": "",
+       "name": "Silver Railway",
+       "artist": {
+        "type": "Group",
+        "name": "Silver Railway",
+        "country": "CA",
+        "disambiguation": "",
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282"
+       }
+      }
+     ],
+     "secondary-types": [],
+     "id": "9074c102-3f95-479a-af41-3071f896de79",
+     "disambiguation": "",
+     "primary-type": "Album",
+     "title": "Sudden Byway",
+     "first-release-date": "2019-10-07"
+    },
+    "barcode": "3156473968670",
+    "date": "2019-10-07",
+    "cover-art-archive": {
+     "front": true,
+     "artwork": true,
+     "count": 1,
+     "back": false,
+     "darkened": false
+    }
+   },
+   {
+    "media": [
+     {
+      "track-count": 9,
+      "title": "",
+      "position": 1,
+      "id": "1a2fbfc0-3f4e-4d24-a8f2-812315f141bd",
+      "format": "Cassette"
+     }
+    ],
+    "country": "CA",
+    "title": "Silver Railway",
+    "disambiguation": "",
+    "artist-credit": [
+     {
+      "joinphrase": "",
+      "name": "Silver Railway",
+      "artist": {
+       "country": "CA",
+       "disambiguation": "",
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "name": "Silver Railway",
+       "type": "Group"
+      }
+     }
+    ],
+    "barcode": null,
+    "cover-art-archive": {
+     "back": true,
+     "front": true,
+     "count": 4,
+     "artwork": true,
+     "darkened": false
+    },
+    "date": "2010",
+    "release-group": {
+     "first-release-date": "2010",
+     "primary-type": "Album",
+     "secondary-types": [],
+     "id": "5a5af0af-3295-42e9-a717-94952caf77f5",
+     "disambiguation": "",
+     "artist-credit": [
+      {
+       "artist": {
+        "name": "Silver Railway",
+        "type": "Group",
+        "country": "CA",
+        "disambiguation": "",
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282"
+       },
+       "joinphrase": "",
+       "name": "Silver Railway"
+      }
+     ],
+     "title": "Silver Railway"
+    },
+    "id": "48edb5cd-9ba8-475c-a420-0f6ff5925b5e",
+    "status": "Official"
+   },
+   {
+    "release-group": {
+     "title": "Silent Parade",
+     "disambiguation": "",
+     "id": "6988d30e-01e7-4fb4-abf5-87f93e34247a",
+     "secondary-types": [],
+     "artist-credit": [
+      {
+       "name": "Silver Railway",
+       "joinphrase": "",
+       "artist": {
+        "country": "CA",
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+        "disambiguation": "",
+        "type": "Group",
+        "name": "Silver Railway"
+       }
+      }
+     ],
+     "primary-type": "Album",
+     "first-release-date": "2014-09-08"
+    },
+    "cover-art-archive": {
+     "darkened": false,
+     "back": false,
+     "front": false,
+     "count": 0,
+     "artwork": false
+    },
+    "date": "2014-09-08",
+    "barcode": "587948761776",
+    "status": "Official",
+    "id": "0b4d2943-91b4-4147-aa21-9775d53a69cc",
+    "media": [
+     {
+      "title": "",
+      "id": "99af7ecb-dad5-4cba-a0c9-dbc2e65404bb",
+      "position": 1,
+      "format": "CD",
+      "track-count": 10
+     }
+    ],
+    "artist-credit": [
+     {
+      "artist": {
+       "type": "Group",
+       "name": "Silver Railway",
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "disambiguation": "",
+       "country": "CA"
+      },
+      "joinphrase": "",
+      "name": "Silver Railway"
+     }
+    ],
+    "disambiguation": "",
+    "title": "Silent Parade",
+    "country": "CA"
+   },
+   {
+    "release-group": {
+     "first-release-date": "2014-09-08",
+     "title": "Silent Parade",
+     "artist-credit": [
+      {
+       "name": "Silver Railway",
+       "joinphrase": "",
+       "artist": {
+        "country": "CA",
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+        "disambiguation": "",
+        "name": "Silver Railway",
+        "type": "Group"
+       }
+      }
+     ],
+     "secondary-types": [],
+     "id": "6988d30e-01e7-4fb4-abf5-87f93e34247a",
+     "disambiguation": "",
+     "primary-type": "Album"
+    },
+    "barcode": "9747768355030",
+    "cover-art-archive": {
+     "darkened": false,
+     "front": true,
+     "artwork": true,
+     "count": 1,
+     "back": false
+    },
+    "date": "2014-09-08",
+    "id": "aef02832-c99c-492f-ac23-f82f3c486dbf",
+    "status": "Official",
+    "media": [
+     {
+      "position": 1,
+      "id": "7a3074e7-c000-4f11-a0c0-6c39320a68e6",
+      "format": "Digital Media",
+      "title": "",
+      "track-count": 10
+     }
+    ],
+    "disambiguation": "",
+    "artist-credit": [
+     {
+      "joinphrase": "",
+      "name": "Silver Railway",
+      "artist": {
+       "type": "Group",
+       "name": "Silver Railway",
+       "disambiguation": "",
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "country": "CA"
+      }
+     }
+    ],
+    "country": "XW",
+    "title": "Silent Parade"
+   },
+   {
+    "barcode": "007467650967",
+    "date": "2011-07-22",
+    "cover-art-archive": {
+     "front": true,
+     "count": 1,
+     "artwork": true,
+     "back": false,
+     "darkened": false
+    },
+    "release-group": {
+     "first-release-date": "2010",
+     "title": "Silver Railway",
+     "primary-type": "Album",
+     "secondary-types": [],
+     "id": "5a5af0af-3295-42e9-a717-94952caf77f5",
+     "disambiguation": "",
+     "artist-credit": [
+      {
+       "artist": {
+        "country": "CA",
+        "disambiguation": "",
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+        "name": "Silver Railway",
+        "type": "Group"
+       },
+       "name": "Silver Railway",
+       "joinphrase": ""
+      }
+     ]
+    },
+    "id": "047606bf-dd60-4633-a6a7-6ab993692897",
+    "status": "Official",
+    "media": [
+     {
+      "track-count": 9,
+      "title": "",
+      "position": 1,
+      "id": "06dad5fa-283a-47eb-ae3c-db8f1ce1f105",
+      "format": "Digital Media"
+     }
+    ],
+    "country": "XW",
+    "title": "Silver Railway",
+    "disambiguation": "",
+    "artist-credit": [
+     {
+      "artist": {
+       "country": "CA",
+       "disambiguation": "",
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "type": "Group",
+       "name": "Silver Railway"
+      },
+      "joinphrase": "",
+      "name": "Silver Railway"
+     }
+    ]
+   },
+   {
+    "media": [
+     {
+      "title": "",
+      "format": "CD",
+      "id": "306ea69a-6875-4098-ae4b-5e80c2dd0bf8",
+      "position": 1,
+      "track-count": 9
+     }
+    ],
+    "country": "US",
+    "title": "Silver Railway",
+    "artist-credit": [
+     {
+      "name": "Silver Railway",
+      "joinphrase": "",
+      "artist": {
+       "country": "CA",
+       "disambiguation": "",
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "type": "Group",
+       "name": "Silver Railway"
+      }
+     }
+    ],
+    "disambiguation": "",
+    "barcode": "331832079803",
+    "date": "2011-07-22",
+    "cover-art-archive": {
+     "darkened": false,
+     "front": true,
+     "count": 1,
+     "artwork": true,
+     "back": false
+    },
+    "release-group": {
+     "first-release-date": "2010",
+     "title": "Silver Railway",
+     "primary-type": "Album",
+     "id": "5a5af0af-3295-42e9-a717-94952caf77f5",
+     "secondary-types": [],
+     "disambiguation": "",
+     "artist-credit": [
+      {
+       "artist": {
+        "disambiguation": "",
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+        "country": "CA",
+        "name": "Silver Railway",
+        "type": "Group"
+       },
+       "joinphrase": "",
+       "name": "Silver Railway"
+      }
+     ]
+    },
+    "status": "Official",
+    "id": "ed2c4224-d916-4446-a634-54db82052297"
+   },
+   {
+    "cover-art-archive": {
+     "back": false,
+     "front": false,
+     "count": 0,
+     "artwork": false,
+     "darkened": false
+    },
+    "date": "2019-08-10",
+    "barcode": "0120991538963",
+    "release-group": {
+     "first-release-date": "2019-08-10",
+     "title": "Pale Lantern Sluice Letter",
+     "disambiguation": "",
+     "id": "ec8d2c16-13d5-4b6e-a692-5702f4534182",
+     "secondary-types": [],
+     "artist-credit": [
+      {
+       "artist": {
+        "country": "CA",
+        "disambiguation": "",
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+        "type": "Group",
+        "name": "Silver Railway"
+       },
+       "name": "Silver Railway",
+       "joinphrase": ""
+      }
+     ],
+     "primary-type": "Single"
+    },
+    "id": "a1f9fcd5-ce91-40f4-acd9-3a44da695a94",
+    "status": "Official",
+    "media": [
+     {
+      "track-count": 2,
+      "format": "Digital Media",
+      "position": 1,
+      "id": "d8a1c1d5-41e3-4169-ae2b-eda3883cd3c8",
+      "title": ""
+     }
+    ],
+    "title": "Pale Lantern Sluice Letter",
+    "country": "AF",
+    "artist-credit": [
+     {
+      "joinphrase": "",
+      "name": "Silver Railway",
+      "artist": {
+       "country": "CA",
+       "disambiguation": "",
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "type": "Group",
+       "name": "Silver Railway"
+      }
+     }
+    ],
+    "disambiguation": ""
+   }
+  ]
+ }
+}

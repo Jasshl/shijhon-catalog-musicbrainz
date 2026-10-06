@@ -1,0 +1,427 @@
+{
+ "name": "search-albums-whole",
+ "url": "https://musicbrainz.org/ws/2/release",
+ "params": {
+  "query": "rgid:(6fba8946-32d3-4e77-a845-aec93c785cc1 OR 5a5af0af-3295-42e9-a717-94952caf77f5 OR c432fdea-873c-45f7-ab37-70f89cc82ad9 OR 5775f82e-3e30-4c87-a933-9fc9896000b9 OR ec8d2c16-13d5-4b6e-a692-5702f4534182) AND status:official AND format:\"digital media\" AND primarytype:(album OR ep OR single)",
+  "limit": "100",
+  "fmt": "json"
+ },
+ "status": 200,
+ "body": {
+  "created": "2026-01-01T00:00:00.000Z",
+  "count": 10,
+  "offset": 0,
+  "releases": [
+   {
+    "id": "5cfb1172-0444-466f-a1d0-ee80e2cfb289",
+    "score": 100,
+    "count": 1,
+    "title": "Warm Lighthouse Meadow Dale",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Silver Railway",
+      "artist": {
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "name": "Silver Railway"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "c432fdea-873c-45f7-ab37-70f89cc82ad9",
+     "title": "Warm Lighthouse Meadow Dale",
+     "primary-type": "EP"
+    },
+    "date": "2019-09-22",
+    "country": "CA",
+    "barcode": "418942760923",
+    "label-info": [
+     {
+      "label": {
+       "id": "355c4b8e-4790-4acd-a5e9-ea86b5e3acb5",
+       "name": "Western Morning Sandbar"
+      }
+     }
+    ],
+    "track-count": 4,
+    "media": [
+     {
+      "id": "d9fb76a3-5608-4fda-a1a1-4775e263085f",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 4
+     }
+    ]
+   },
+   {
+    "id": "0bacea79-d92c-430e-a8fd-83dbba435700",
+    "score": 97,
+    "count": 1,
+    "title": "Silver Railway",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Amber Fable",
+      "artist": {
+       "id": "f47bc59a-f492-4454-a037-42180af60a0f",
+       "name": "Amber Fable",
+       "disambiguation": ""
+      }
+     }
+    ],
+    "release-group": {
+     "id": "6fba8946-32d3-4e77-a845-aec93c785cc1",
+     "title": "Silver Railway",
+     "primary-type": "Single"
+    },
+    "date": "2017-01-05",
+    "country": "XW",
+    "barcode": "923042139997",
+    "label-info": [
+     {
+      "label": {
+       "id": "db68ad42-b038-45f2-a5d7-1d9cc0dc1963",
+       "name": "Broken Parade Junction"
+      }
+     }
+    ],
+    "track-count": 1,
+    "media": [
+     {
+      "id": "8a48eb1c-e4da-4b1f-a6a0-1eca1b36f0de",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 1
+     }
+    ]
+   },
+   {
+    "id": "c423b64c-915c-42e2-a85b-41a3203a02b0",
+    "score": 94,
+    "count": 1,
+    "title": "Pale Lantern Sluice Letter",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Silver Railway",
+      "artist": {
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "name": "Silver Railway"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "ec8d2c16-13d5-4b6e-a692-5702f4534182",
+     "title": "Pale Lantern Sluice Letter",
+     "primary-type": "Single"
+    },
+    "date": "2019-08-10",
+    "country": "AL",
+    "barcode": "0120991538963",
+    "label-info": [
+     {
+      "label": {
+       "id": "8cbe65ed-f23c-4e02-a359-49e5bd5c53c8",
+       "name": "Eastern Atlas"
+      }
+     }
+    ],
+    "track-count": 2,
+    "media": [
+     {
+      "id": "8ff36313-0af7-4cb8-ac0c-e8f12949919c",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 2
+     }
+    ]
+   },
+   {
+    "id": "a1f9fcd5-ce91-40f4-acd9-3a44da695a94",
+    "score": 94,
+    "count": 1,
+    "title": "Pale Lantern Sluice Letter",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Silver Railway",
+      "artist": {
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "name": "Silver Railway"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "ec8d2c16-13d5-4b6e-a692-5702f4534182",
+     "title": "Pale Lantern Sluice Letter",
+     "primary-type": "Single"
+    },
+    "date": "2019-08-10",
+    "country": "AF",
+    "barcode": "0120991538963",
+    "label-info": [
+     {
+      "label": {
+       "id": "bcc420c0-aad6-4e7b-a4de-e24bfa452c6f",
+       "name": "Misty Garden"
+      }
+     }
+    ],
+    "track-count": 2,
+    "media": [
+     {
+      "id": "d8a1c1d5-41e3-4169-ae2b-eda3883cd3c8",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 2
+     }
+    ]
+   },
+   {
+    "id": "bf918964-f2f1-4730-a7fc-4463e5743e8c",
+    "score": 92,
+    "count": 1,
+    "title": "Wild Morning",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Silver Railway",
+      "artist": {
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "name": "Silver Railway"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "5775f82e-3e30-4c87-a933-9fc9896000b9",
+     "title": "Wild Morning",
+     "primary-type": "Single"
+    },
+    "date": "2019-07-06",
+    "country": "DZ",
+    "barcode": "3975516249016",
+    "label-info": [
+     {
+      "label": {
+       "id": "bcc420c0-aad6-4e7b-a4de-e24bfa452c6f",
+       "name": "Misty Garden"
+      }
+     }
+    ],
+    "track-count": 1,
+    "media": [
+     {
+      "id": "77c445b5-2a6a-47a3-adbc-373b69072241",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 1
+     }
+    ]
+   },
+   {
+    "id": "2eca5859-f9e8-43e0-a30e-5d0de764025a",
+    "score": 92,
+    "count": 1,
+    "title": "Wild Morning",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Silver Railway",
+      "artist": {
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "name": "Silver Railway"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "5775f82e-3e30-4c87-a933-9fc9896000b9",
+     "title": "Wild Morning",
+     "primary-type": "Single"
+    },
+    "date": "2019-07-06",
+    "country": "AL",
+    "barcode": "3975516249016",
+    "label-info": [
+     {
+      "label": {
+       "id": "8cbe65ed-f23c-4e02-a359-49e5bd5c53c8",
+       "name": "Eastern Atlas"
+      }
+     }
+    ],
+    "track-count": 1,
+    "media": [
+     {
+      "id": "fa68b60f-62f4-4ddc-a1bb-2a4f2fe1b47e",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 1
+     }
+    ]
+   },
+   {
+    "id": "b3c82dca-f80d-4f2a-ab83-af29c1ec111a",
+    "score": 92,
+    "count": 1,
+    "title": "Wild Morning",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Silver Railway",
+      "artist": {
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "name": "Silver Railway"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "5775f82e-3e30-4c87-a933-9fc9896000b9",
+     "title": "Wild Morning",
+     "primary-type": "Single"
+    },
+    "date": "2019-07-06",
+    "country": "CA",
+    "label-info": [
+     {
+      "label": {
+       "id": "bcc420c0-aad6-4e7b-a4de-e24bfa452c6f",
+       "name": "Misty Garden"
+      }
+     }
+    ],
+    "track-count": 1,
+    "media": [
+     {
+      "id": "83106842-7ffb-44fb-a88a-ff1b162a2ca3",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 1
+     }
+    ]
+   },
+   {
+    "id": "047606bf-dd60-4633-a6a7-6ab993692897",
+    "score": 83,
+    "count": 1,
+    "title": "Silver Railway",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Silver Railway",
+      "artist": {
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "name": "Silver Railway"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "5a5af0af-3295-42e9-a717-94952caf77f5",
+     "title": "Silver Railway",
+     "primary-type": "Album"
+    },
+    "date": "2011-07-22",
+    "country": "XW",
+    "barcode": "007467650967",
+    "label-info": [
+     {
+      "label": {
+       "id": "bcc420c0-aad6-4e7b-a4de-e24bfa452c6f",
+       "name": "Misty Garden"
+      }
+     }
+    ],
+    "track-count": 9,
+    "media": [
+     {
+      "id": "06dad5fa-283a-47eb-ae3c-db8f1ce1f105",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 9
+     }
+    ]
+   },
+   {
+    "id": "583c5745-8b69-4fa8-a775-63c4f0b47887",
+    "score": 83,
+    "count": 1,
+    "title": "Silver Railway",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Silver Railway",
+      "artist": {
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "name": "Silver Railway"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "5a5af0af-3295-42e9-a717-94952caf77f5",
+     "title": "Silver Railway",
+     "primary-type": "Album"
+    },
+    "date": "2011-07-21",
+    "country": "AL",
+    "barcode": "6930330129542",
+    "label-info": [
+     {
+      "label": {
+       "id": "8cbe65ed-f23c-4e02-a359-49e5bd5c53c8",
+       "name": "Eastern Atlas"
+      }
+     }
+    ],
+    "track-count": 9,
+    "media": [
+     {
+      "id": "9eb5fb7e-8070-485c-abc2-02dec055ccd1",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 9
+     }
+    ]
+   },
+   {
+    "id": "2a79e73c-e6d0-4c84-a279-6ce62334b7e1",
+    "score": 83,
+    "count": 1,
+    "title": "Silver Railway",
+    "status": "Official",
+    "artist-credit": [
+     {
+      "name": "Silver Railway",
+      "artist": {
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "name": "Silver Railway"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "5a5af0af-3295-42e9-a717-94952caf77f5",
+     "title": "Silver Railway",
+     "primary-type": "Album"
+    },
+    "date": "2011-01-01",
+    "country": "CA",
+    "barcode": "84114893429149",
+    "label-info": [
+     {
+      "label": {
+       "id": "5b46c0ac-dd5f-4738-a965-59adee23ad3e",
+       "name": "Eastern Needle Current"
+      }
+     }
+    ],
+    "track-count": 9,
+    "media": [
+     {
+      "id": "155b6be9-6eba-4a68-adf8-6918f33870fc",
+      "format": "Digital Media",
+      "disc-count": 0,
+      "track-count": 9
+     }
+    ]
+   }
+  ]
+ }
+}

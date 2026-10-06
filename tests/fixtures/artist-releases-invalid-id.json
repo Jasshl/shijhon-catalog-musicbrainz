@@ -1,0 +1,17 @@
+{
+ "name": "artist-releases-invalid-id",
+ "url": "https://musicbrainz.org/ws/2/release",
+ "params": {
+  "artist": "db2e9365-bf93-4137-a4ba-cfb40257a61a",
+  "status": "official",
+  "type": "album|ep|single",
+  "inc": "release-groups+media+artist-credits",
+  "limit": "100",
+  "fmt": "json"
+ },
+ "status": 400,
+ "body": {
+  "help": "For usage, please see: https://musicbrainz.org/development/mmd",
+  "error": "Invalid mbid."
+ }
+}

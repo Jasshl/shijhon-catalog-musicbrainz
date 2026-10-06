@@ -1,0 +1,17 @@
+{
+ "name": "search-busy",
+ "url": "https://musicbrainz.org/ws/2/release",
+ "params": {
+  "query": "arid:4bb359c2-60a3-4b2a-a138-7e9134c09d11 AND status:official AND format:\"digital media\" AND primarytype:(album OR ep OR single)",
+  "limit": "100",
+  "offset": "100",
+  "fmt": "json"
+ },
+ "status": 503,
+ "headers": {
+  "retry-after": "0"
+ },
+ "body": {
+  "error": "The MusicBrainz web server is currently busy. Please try again later."
+ }
+}

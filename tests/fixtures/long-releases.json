@@ -1,0 +1,137 @@
+{
+ "name": "long-releases",
+ "url": "https://musicbrainz.org/ws/2/release",
+ "params": {
+  "artist": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+  "status": "official",
+  "type": "album|ep|single",
+  "inc": "release-groups+media+artist-credits",
+  "limit": "2",
+  "fmt": "json"
+ },
+ "status": 200,
+ "body": {
+  "releases": [
+   {
+    "title": "Winter Corner",
+    "disambiguation": "",
+    "barcode": "5760392955648",
+    "artist-credit": [
+     {
+      "joinphrase": "",
+      "artist": {
+       "country": "GB",
+       "disambiguation": "",
+       "type": "Group",
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel"
+      },
+      "name": "Gentle Chapel"
+     }
+    ],
+    "media": [
+     {
+      "position": 1,
+      "track-count": 4,
+      "format": "CD",
+      "id": "45dcffe7-f5a9-4d59-af74-4f4d1651fea7",
+      "title": ""
+     }
+    ],
+    "release-group": {
+     "id": "8c125a19-59ac-4e81-a7b6-381585e4b368",
+     "title": "Winter Corner",
+     "disambiguation": "",
+     "artist-credit": [
+      {
+       "artist": {
+        "disambiguation": "",
+        "country": "GB",
+        "type": "Group",
+        "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+        "name": "Gentle Chapel"
+       },
+       "name": "Gentle Chapel",
+       "joinphrase": ""
+      }
+     ],
+     "primary-type": "EP",
+     "first-release-date": "1989-05-05",
+     "secondary-types": []
+    },
+    "country": "GB",
+    "cover-art-archive": {
+     "darkened": false,
+     "count": 1,
+     "back": false,
+     "artwork": true,
+     "front": true
+    },
+    "id": "002eebbc-f7c5-4702-a97e-5eb9ed94f4dd",
+    "status": "Official",
+    "date": "1989-05-05"
+   },
+   {
+    "barcode": "6468671893644",
+    "disambiguation": "",
+    "title": "Winter Corner",
+    "media": [
+     {
+      "track-count": 4,
+      "position": 1,
+      "format": "Vinyl",
+      "id": "98aeaa60-fc4c-4b96-afbb-252af83ce2c7",
+      "title": ""
+     }
+    ],
+    "artist-credit": [
+     {
+      "joinphrase": "",
+      "name": "Gentle Chapel",
+      "artist": {
+       "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+       "name": "Gentle Chapel",
+       "country": "GB",
+       "disambiguation": "",
+       "type": "Group"
+      }
+     }
+    ],
+    "release-group": {
+     "id": "8c125a19-59ac-4e81-a7b6-381585e4b368",
+     "disambiguation": "",
+     "title": "Winter Corner",
+     "secondary-types": [],
+     "first-release-date": "1989-05-05",
+     "artist-credit": [
+      {
+       "joinphrase": "",
+       "artist": {
+        "name": "Gentle Chapel",
+        "id": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+        "type": "Group",
+        "country": "GB",
+        "disambiguation": ""
+       },
+       "name": "Gentle Chapel"
+      }
+     ],
+     "primary-type": "EP"
+    },
+    "country": "GB",
+    "cover-art-archive": {
+     "darkened": false,
+     "count": 0,
+     "back": false,
+     "front": false,
+     "artwork": false
+    },
+    "id": "cae638bc-7164-4dc5-a1c8-92297d087360",
+    "date": "1989-05-05",
+    "status": "Official"
+   }
+  ],
+  "release-count": 486,
+  "release-offset": 0
+ }
+}

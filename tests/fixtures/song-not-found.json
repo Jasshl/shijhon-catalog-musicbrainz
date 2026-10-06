@@ -1,0 +1,15 @@
+{
+ "name": "song-not-found",
+ "url": "https://musicbrainz.org/ws/2/release",
+ "params": {
+  "track": "8e819f4c-4adb-4c07-a5fb-c73c31349d43",
+  "inc": "recordings+artist-credits+isrcs+release-groups+labels",
+  "limit": "1",
+  "fmt": "json"
+ },
+ "status": 404,
+ "body": {
+  "error": "Not Found",
+  "help": "For usage, please see: https://musicbrainz.org/development/mmd"
+ }
+}

@@ -1,0 +1,10 @@
+{
+ "name": "cover-redirect",
+ "url": "https://coverartarchive.org/release-group/6988d30e-01e7-4fb4-abf5-87f93e34247a/front-500",
+ "params": {},
+ "status": 307,
+ "headers": {
+  "location": "https://archive.org/download/mbid-aef02832-c99c-492f-ac23-f82f3c486dbf/mbid-aef02832-c99c-492f-ac23-f82f3c486dbf-23729778159_thumb500.jpg"
+ },
+ "body": null
+}

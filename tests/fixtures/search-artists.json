@@ -1,0 +1,32 @@
+{
+ "name": "search-artists",
+ "url": "https://musicbrainz.org/ws/2/artist",
+ "params": {
+  "query": "silver railway",
+  "limit": "25",
+  "fmt": "json"
+ },
+ "status": 200,
+ "body": {
+  "created": "2026-01-01T00:00:00.000Z",
+  "count": 2,
+  "offset": 0,
+  "artists": [
+   {
+    "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+    "type": "Group",
+    "score": 100,
+    "name": "Silver Railway",
+    "country": "CA"
+   },
+   {
+    "id": "66db243f-35da-4a37-a32c-204c05cfbc02",
+    "type": "Person",
+    "score": 61,
+    "name": "Hollow Inlet",
+    "country": "CA",
+    "disambiguation": ""
+   }
+  ]
+ }
+}

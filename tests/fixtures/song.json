@@ -1,0 +1,529 @@
+{
+ "name": "song",
+ "url": "https://musicbrainz.org/ws/2/release",
+ "params": {
+  "track": "74703c3b-af1b-4567-ad41-b0011e30a7ee",
+  "inc": "recordings+artist-credits+isrcs+release-groups+labels",
+  "limit": "1",
+  "fmt": "json"
+ },
+ "status": 200,
+ "body": {
+  "release-offset": 0,
+  "release-count": 1,
+  "releases": [
+   {
+    "date": "2014-09-08",
+    "artist-credit": [
+     {
+      "joinphrase": "",
+      "artist": {
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "name": "Silver Railway",
+       "type": "Group",
+       "country": "CA",
+       "disambiguation": ""
+      },
+      "name": "Silver Railway"
+     }
+    ],
+    "media": [
+     {
+      "title": "",
+      "track-offset": 0,
+      "id": "12a55dc5-7170-4d10-a4ce-c6d711777fef",
+      "position": 1,
+      "track-count": 10,
+      "tracks": [
+       {
+        "recording": {
+         "disambiguation": "",
+         "artist-credit": [
+          {
+           "artist": {
+            "disambiguation": "",
+            "country": "CA",
+            "name": "Silver Railway",
+            "type": "Group",
+            "id": "d636fb81-50e0-48b3-acce-f81f254bb282"
+           },
+           "joinphrase": "",
+           "name": "Silver Railway"
+          }
+         ],
+         "video": false,
+         "length": 197610,
+         "title": "Amber Window",
+         "first-release-date": "2014-08",
+         "isrcs": [
+          "ZZZRE6259963"
+         ],
+         "id": "dc2e966d-3e9a-4376-a59f-002563af600d"
+        },
+        "length": 197190,
+        "title": "Amber Window",
+        "position": 1,
+        "id": "1a1ec8c2-d3d4-41be-af7b-8d4e53768f40",
+        "number": "1",
+        "artist-credit": [
+         {
+          "joinphrase": "",
+          "artist": {
+           "country": "CA",
+           "disambiguation": "",
+           "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+           "type": "Group",
+           "name": "Silver Railway"
+          },
+          "name": "Silver Railway"
+         }
+        ]
+       },
+       {
+        "number": "2",
+        "artist-credit": [
+         {
+          "name": "Silver Railway",
+          "artist": {
+           "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+           "type": "Group",
+           "name": "Silver Railway",
+           "country": "CA",
+           "disambiguation": ""
+          },
+          "joinphrase": ""
+         }
+        ],
+        "length": 195224,
+        "recording": {
+         "isrcs": [
+          "ZZXSE7077139"
+         ],
+         "id": "e427b78c-cb57-4ab1-aa27-a01eea98a02a",
+         "video": false,
+         "artist-credit": [
+          {
+           "name": "Silver Railway",
+           "joinphrase": "",
+           "artist": {
+            "type": "Group",
+            "name": "Silver Railway",
+            "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+            "disambiguation": "",
+            "country": "CA"
+           }
+          }
+         ],
+         "disambiguation": "",
+         "title": "Warm Alley",
+         "first-release-date": "2014-09-08",
+         "length": 195973
+        },
+        "id": "c17c996f-b1d2-4b7c-a5c0-72b4ebf384cf",
+        "position": 2,
+        "title": "Warm Alley"
+       },
+       {
+        "id": "74703c3b-af1b-4567-ad41-b0011e30a7ee",
+        "title": "Sudden Pavilion",
+        "position": 3,
+        "length": 288563,
+        "recording": {
+         "isrcs": [
+          "ZZXNP9430519"
+         ],
+         "id": "d2d7f4f5-666d-4a56-af6a-89e01fb73dfd",
+         "artist-credit": [
+          {
+           "name": "Silver Railway",
+           "joinphrase": "",
+           "artist": {
+            "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+            "type": "Group",
+            "name": "Silver Railway",
+            "country": "CA",
+            "disambiguation": ""
+           }
+          }
+         ],
+         "video": false,
+         "disambiguation": "",
+         "title": "Sudden Pavilion",
+         "first-release-date": "2014-09-08",
+         "length": 288828
+        },
+        "artist-credit": [
+         {
+          "artist": {
+           "name": "Silver Railway",
+           "type": "Group",
+           "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+           "disambiguation": "",
+           "country": "CA"
+          },
+          "joinphrase": "",
+          "name": "Silver Railway"
+         }
+        ],
+        "number": "3"
+       },
+       {
+        "title": "Amber Field",
+        "position": 4,
+        "id": "a00a2ea4-83c0-462b-a9bc-c5c2c6e9c489",
+        "recording": {
+         "disambiguation": "",
+         "video": false,
+         "artist-credit": [
+          {
+           "artist": {
+            "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+            "name": "Silver Railway",
+            "type": "Group",
+            "country": "CA",
+            "disambiguation": ""
+           },
+           "joinphrase": "",
+           "name": "Silver Railway"
+          }
+         ],
+         "length": 123926,
+         "first-release-date": "2014-09-08",
+         "title": "Amber Field",
+         "isrcs": [
+          "ZZKBQ3212836"
+         ],
+         "id": "79a32297-169e-403d-a9fe-e41c93876cba"
+        },
+        "length": 122532,
+        "artist-credit": [
+         {
+          "name": "Silver Railway",
+          "joinphrase": "",
+          "artist": {
+           "name": "Silver Railway",
+           "type": "Group",
+           "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+           "disambiguation": "",
+           "country": "CA"
+          }
+         }
+        ],
+        "number": "4"
+       },
+       {
+        "length": 255510,
+        "recording": {
+         "isrcs": [
+          "ZZEBU1172216"
+         ],
+         "id": "2da5fdc9-647c-4b93-a888-530e82bbd7b0",
+         "artist-credit": [
+          {
+           "joinphrase": "",
+           "artist": {
+            "country": "CA",
+            "disambiguation": "",
+            "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+            "name": "Silver Railway",
+            "type": "Group"
+           },
+           "name": "Silver Railway"
+          }
+         ],
+         "video": false,
+         "disambiguation": "",
+         "title": "Silver Fable Circuit",
+         "first-release-date": "2014-09-08",
+         "length": 255510
+        },
+        "id": "2c082424-af19-4637-a636-e0bb6e26cc37",
+        "title": "Silver Fable Circuit",
+        "position": 5,
+        "number": "5",
+        "artist-credit": [
+         {
+          "artist": {
+           "name": "Silver Railway",
+           "type": "Group",
+           "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+           "disambiguation": "",
+           "country": "CA"
+          },
+          "joinphrase": "",
+          "name": "Silver Railway"
+         }
+        ]
+       },
+       {
+        "id": "61006c9e-bcbc-4fce-adfb-3f44a4d63a4d",
+        "title": "Wooden Voyage",
+        "position": 6,
+        "length": 168162,
+        "recording": {
+         "isrcs": [
+          "ZZTMN9430937"
+         ],
+         "id": "764a33f2-d65b-476b-aea5-44b6e7742e0e",
+         "video": false,
+         "artist-credit": [
+          {
+           "artist": {
+            "country": "CA",
+            "disambiguation": "",
+            "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+            "type": "Group",
+            "name": "Silver Railway"
+           },
+           "joinphrase": "",
+           "name": "Silver Railway"
+          }
+         ],
+         "disambiguation": "",
+         "first-release-date": "2014-09-08",
+         "title": "Wooden Voyage",
+         "length": 168420
+        },
+        "artist-credit": [
+         {
+          "name": "Silver Railway",
+          "joinphrase": "",
+          "artist": {
+           "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+           "name": "Silver Railway",
+           "type": "Group",
+           "country": "CA",
+           "disambiguation": ""
+          }
+         }
+        ],
+        "number": "6"
+       },
+       {
+        "position": 7,
+        "title": "Distant Valley Cliff Field",
+        "id": "3f98af8f-53b3-4943-af06-4703c9a48af1",
+        "recording": {
+         "isrcs": [
+          "ZZOPT4008188"
+         ],
+         "id": "9ca38811-9c97-4bdc-ae1c-4853458a93ca",
+         "disambiguation": "",
+         "artist-credit": [
+          {
+           "name": "Silver Railway",
+           "joinphrase": "",
+           "artist": {
+            "country": "CA",
+            "disambiguation": "",
+            "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+            "name": "Silver Railway",
+            "type": "Group"
+           }
+          }
+         ],
+         "video": false,
+         "length": 198500,
+         "first-release-date": "2014-09-08",
+         "title": "Distant Valley Cliff Field"
+        },
+        "length": 197190,
+        "artist-credit": [
+         {
+          "name": "Silver Railway",
+          "joinphrase": "",
+          "artist": {
+           "country": "CA",
+           "disambiguation": "",
+           "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+           "name": "Silver Railway",
+           "type": "Group"
+          }
+         }
+        ],
+        "number": "7"
+       },
+       {
+        "length": 182027,
+        "recording": {
+         "id": "a0ee235f-2b12-4761-ae40-451493819cca",
+         "isrcs": [
+          "ZZYGZ5288974"
+         ],
+         "first-release-date": "2014-09-08",
+         "title": "Rapid Thicket",
+         "length": 183003,
+         "video": false,
+         "artist-credit": [
+          {
+           "name": "Silver Railway",
+           "artist": {
+            "disambiguation": "",
+            "country": "CA",
+            "type": "Group",
+            "name": "Silver Railway",
+            "id": "d636fb81-50e0-48b3-acce-f81f254bb282"
+           },
+           "joinphrase": ""
+          }
+         ],
+         "disambiguation": ""
+        },
+        "id": "195bda11-b148-495f-a65c-211cb76d9d04",
+        "position": 8,
+        "title": "Rapid Thicket",
+        "number": "8",
+        "artist-credit": [
+         {
+          "joinphrase": "",
+          "artist": {
+           "disambiguation": "",
+           "country": "CA",
+           "name": "Silver Railway",
+           "type": "Group",
+           "id": "d636fb81-50e0-48b3-acce-f81f254bb282"
+          },
+          "name": "Silver Railway"
+         }
+        ]
+       },
+       {
+        "number": "9",
+        "artist-credit": [
+         {
+          "joinphrase": "",
+          "artist": {
+           "country": "CA",
+           "disambiguation": "",
+           "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+           "type": "Group",
+           "name": "Silver Railway"
+          },
+          "name": "Silver Railway"
+         }
+        ],
+        "length": 179379,
+        "recording": {
+         "isrcs": [
+          "ZZADV0168040"
+         ],
+         "id": "2dfa7f8d-57cb-4042-aef6-eaf9b50ac271",
+         "disambiguation": "",
+         "artist-credit": [
+          {
+           "name": "Silver Railway",
+           "artist": {
+            "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+            "name": "Silver Railway",
+            "type": "Group",
+            "country": "CA",
+            "disambiguation": ""
+           },
+           "joinphrase": ""
+          }
+         ],
+         "video": false,
+         "length": 180353,
+         "first-release-date": "2014-09-08",
+         "title": "Tawny Tunnel Mirror Cellar"
+        },
+        "id": "a28160bb-9baf-4aa6-a84a-643d556e48ed",
+        "title": "Tawny Tunnel Mirror Cellar",
+        "position": 9
+       },
+       {
+        "artist-credit": [
+         {
+          "name": "Silver Railway",
+          "joinphrase": "",
+          "artist": {
+           "country": "CA",
+           "disambiguation": "",
+           "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+           "name": "Silver Railway",
+           "type": "Group"
+          }
+         }
+        ],
+        "number": "10",
+        "position": 10,
+        "title": "Glass Satellite Station",
+        "id": "d54e2f23-f1d9-458d-aa1b-c91febda25b9",
+        "recording": {
+         "isrcs": [
+          "ZZWXT6405550"
+         ],
+         "id": "d05c532c-28da-4cf3-a3bc-baf545b581a9",
+         "disambiguation": "",
+         "artist-credit": [
+          {
+           "name": "Silver Railway",
+           "joinphrase": "",
+           "artist": {
+            "name": "Silver Railway",
+            "type": "Group",
+            "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+            "disambiguation": "",
+            "country": "CA"
+           }
+          }
+         ],
+         "video": false,
+         "length": 162966,
+         "first-release-date": "2014-09-08",
+         "title": "Glass Satellite Station"
+        },
+        "length": 162508
+       }
+      ],
+      "format": "Digital Media"
+     }
+    ],
+    "label-info": [
+     {
+      "label": {
+       "type": "Original Production",
+       "name": "Misty Garden",
+       "id": "bcc420c0-aad6-4e7b-a4de-e24bfa452c6f",
+       "disambiguation": ""
+      }
+     }
+    ],
+    "barcode": "322775665160",
+    "status": "Official",
+    "release-group": {
+     "first-release-date": "2014-09-08",
+     "primary-type": "Album",
+     "title": "Silent Parade",
+     "artist-credit": [
+      {
+       "artist": {
+        "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+        "name": "Silver Railway",
+        "type": "Group",
+        "country": "CA",
+        "disambiguation": ""
+       },
+       "joinphrase": "",
+       "name": "Silver Railway"
+      }
+     ],
+     "secondary-types": [],
+     "disambiguation": "",
+     "id": "6988d30e-01e7-4fb4-abf5-87f93e34247a"
+    },
+    "id": "823198f7-811e-49cb-a2d1-0d1be1b6a58d",
+    "disambiguation": "",
+    "country": "XW",
+    "cover-art-archive": {
+     "artwork": true,
+     "front": true,
+     "back": false,
+     "darkened": false,
+     "count": 1
+    },
+    "title": "Silent Parade"
+   }
+  ]
+ }
+}

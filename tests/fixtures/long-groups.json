@@ -1,0 +1,848 @@
+{
+ "name": "long-groups",
+ "url": "https://musicbrainz.org/ws/2/release-group",
+ "params": {
+  "artist": "4bb359c2-60a3-4b2a-a138-7e9134c09d11",
+  "type": "album|ep|single",
+  "release-group-status": "website-default",
+  "limit": "100",
+  "fmt": "json"
+ },
+ "status": 200,
+ "body": {
+  "release-group-offset": 0,
+  "release-groups": [
+   {
+    "secondary-types": [],
+    "id": "1faefa0c-39f5-4803-a79d-b3d136b9fa15",
+    "disambiguation": "",
+    "primary-type": "Single",
+    "title": "Narrow Rampart Chapel",
+    "first-release-date": "2014-06-22"
+   },
+   {
+    "first-release-date": "2008",
+    "title": "Bright Dale Cellar Chapel",
+    "primary-type": "Single",
+    "id": "ac92f7f1-a058-4075-acde-9b7422a43315",
+    "secondary-types": [
+     "Remix"
+    ],
+    "disambiguation": ""
+   },
+   {
+    "primary-type": "Single",
+    "id": "b1d076fc-2d01-4f0c-a08e-fa68fa97c8e3",
+    "secondary-types": [],
+    "disambiguation": "",
+    "title": "Ragged Hollow Atlas Corner",
+    "first-release-date": "2006-08-17"
+   },
+   {
+    "title": "Gilded Inlet Cliff Cellar",
+    "id": "cdabf344-8ee1-42aa-a705-eabc024067b4",
+    "secondary-types": [
+     "Live"
+    ],
+    "disambiguation": "",
+    "primary-type": "Single",
+    "first-release-date": "2013-10-05"
+   },
+   {
+    "first-release-date": "2017-01-20",
+    "primary-type": "Single",
+    "id": "54032654-cefb-4cd5-a077-5da8332abaed",
+    "disambiguation": "",
+    "secondary-types": [],
+    "title": "Sudden Estuary Pavilion Engine"
+   },
+   {
+    "first-release-date": "1992-05-17",
+    "secondary-types": [
+     "Live"
+    ],
+    "id": "4e46a623-d383-4a7f-a945-d6d1dc4551bb",
+    "disambiguation": "",
+    "primary-type": "Album",
+    "title": "Crimson Ledger Theater Field"
+   },
+   {
+    "first-release-date": "2002-08",
+    "disambiguation": "",
+    "id": "c87d5b2a-8f38-4ad1-a46f-a028667eee2b",
+    "secondary-types": [
+     "Remix"
+    ],
+    "primary-type": "Album",
+    "title": "Cedar Thicket Dale Shingle"
+   },
+   {
+    "first-release-date": "2008-11-21",
+    "title": "Plain Inlet",
+    "id": "4500e034-cf37-4383-a257-7141e7d6ff7b",
+    "disambiguation": "",
+    "secondary-types": [
+     "Remix"
+    ],
+    "primary-type": "Single"
+   },
+   {
+    "first-release-date": "1994-12-10",
+    "title": "Paper Radio Radio Tunnel",
+    "secondary-types": [],
+    "id": "31273d63-46e0-497b-a37b-3bdd8b6964cf",
+    "disambiguation": "",
+    "primary-type": "EP"
+   },
+   {
+    "title": "Sudden Pier",
+    "id": "4765ea18-2a83-4013-a7ce-1aa54df72cda",
+    "disambiguation": "",
+    "secondary-types": [],
+    "primary-type": "Single",
+    "first-release-date": "1994-12"
+   },
+   {
+    "secondary-types": [
+     "Compilation",
+     "Demo"
+    ],
+    "id": "113f418f-d818-4820-ae5e-8818cb6aa1db",
+    "disambiguation": "",
+    "primary-type": "Album",
+    "title": "Distant Theater",
+    "first-release-date": "2016-06-05"
+   },
+   {
+    "primary-type": "Single",
+    "id": "34e32f5d-8d06-4f6f-a6f8-aeef70f0d760",
+    "disambiguation": "",
+    "secondary-types": [
+     "Remix"
+    ],
+    "title": "Cobalt Alcove Sluice Mirror",
+    "first-release-date": "2008"
+   },
+   {
+    "primary-type": "Single",
+    "id": "48783d22-cd85-4905-a670-ad30e0bebf00",
+    "disambiguation": "",
+    "secondary-types": [],
+    "title": "Idle Engine",
+    "first-release-date": "1994-05-26"
+   },
+   {
+    "title": "Ragged Mirror",
+    "primary-type": "Album",
+    "id": "a9558b57-1381-4278-a5dd-4b88994fb987",
+    "disambiguation": "",
+    "secondary-types": [
+     "Interview"
+    ],
+    "first-release-date": "2007-08-23"
+   },
+   {
+    "primary-type": "Single",
+    "id": "7ed9cb4a-47d5-44f3-acd6-bb55dce2ead7",
+    "secondary-types": [],
+    "disambiguation": "",
+    "title": "Mellow Alley Mirror",
+    "first-release-date": "2017-02-21"
+   },
+   {
+    "first-release-date": "2006-06-09",
+    "disambiguation": "",
+    "id": "0b27608c-4f25-4149-ad01-43e4ceeb5c32",
+    "secondary-types": [],
+    "primary-type": "EP",
+    "title": "Slow Byway Theater Beacon"
+   },
+   {
+    "secondary-types": [
+     "Compilation"
+    ],
+    "id": "38e630e6-81dd-4518-a110-9f36bdb61d4d",
+    "disambiguation": "",
+    "primary-type": "Album",
+    "title": "Young Valley Pavilion",
+    "first-release-date": "2009-10-12"
+   },
+   {
+    "first-release-date": "2008-11-13",
+    "title": "Ivory Season Causeway",
+    "primary-type": "Single",
+    "id": "4e6b956b-c9c5-48e6-a494-9591b0fc768e",
+    "disambiguation": "",
+    "secondary-types": [
+     "Remix"
+    ]
+   },
+   {
+    "id": "4dcdc8fd-cd73-4166-a788-7c6d49adcd27",
+    "disambiguation": "",
+    "secondary-types": [],
+    "primary-type": "Single",
+    "title": "Distant Estuary Lantern Pier",
+    "first-release-date": "2008-04-16"
+   },
+   {
+    "first-release-date": "2008",
+    "disambiguation": "",
+    "id": "83f1fad9-144a-4c7c-a870-6fc7c6dfc1bc",
+    "secondary-types": [
+     "Remix"
+    ],
+    "primary-type": "Single",
+    "title": "Dappled Tunnel Beacon Current"
+   },
+   {
+    "title": "Rustic Hollow Letter Wharf",
+    "primary-type": "Album",
+    "id": "a133f4c6-a599-40da-af63-c1420c4a42a2",
+    "disambiguation": "",
+    "secondary-types": [
+     "Live"
+    ],
+    "first-release-date": "1994-06-28"
+   },
+   {
+    "title": "Velvet Estuary Estuary Pier",
+    "secondary-types": [
+     "Live"
+    ],
+    "id": "991b9f45-546c-47c9-ae24-060a316add9f",
+    "disambiguation": "",
+    "primary-type": "Album",
+    "first-release-date": "2022-08-13"
+   },
+   {
+    "title": "Glass Morning Parade",
+    "id": "7b04c13d-a067-47fd-a532-8dd08aa4a93c",
+    "secondary-types": [],
+    "disambiguation": "",
+    "primary-type": "Single",
+    "first-release-date": "1990-05-10"
+   },
+   {
+    "title": "Wooden Copse",
+    "primary-type": "EP",
+    "id": "78373aa5-a21a-4843-a49b-f825f7cd97e4",
+    "disambiguation": "",
+    "secondary-types": [],
+    "first-release-date": "1989-09-21"
+   },
+   {
+    "title": "Lunar Cliff Byway Pavilion",
+    "primary-type": "Single",
+    "id": "a144fc8d-0518-4654-afbe-4c0edd41a185",
+    "secondary-types": [],
+    "disambiguation": "",
+    "first-release-date": "2008-12-19"
+   },
+   {
+    "first-release-date": "2017-02-21",
+    "id": "6526ad15-62f2-4093-aa2d-fc7cc6e140d6",
+    "secondary-types": [],
+    "disambiguation": "",
+    "primary-type": "Single",
+    "title": "Faded Season Meadow Tunnel"
+   },
+   {
+    "disambiguation": "",
+    "id": "f2f2ea42-383c-4cea-abff-35276b57c1e5",
+    "secondary-types": [],
+    "primary-type": "Single",
+    "title": "Copper Current",
+    "first-release-date": "1998-05-15"
+   },
+   {
+    "title": "Golden Window Atlas Estuary",
+    "secondary-types": [],
+    "id": "730c70a0-1e5d-4e63-a6c1-9a3b70ecc68a",
+    "disambiguation": "",
+    "primary-type": "Single",
+    "first-release-date": "2000-11-17"
+   },
+   {
+    "first-release-date": "2000-05-26",
+    "id": "3f90427a-fdb6-47d7-afb8-e336780d630c",
+    "disambiguation": "",
+    "secondary-types": [],
+    "primary-type": "Album",
+    "title": "Warm Copse Morning Estuary"
+   },
+   {
+    "title": "Faded Cliff Alley Atlas",
+    "primary-type": "Single",
+    "disambiguation": "",
+    "id": "88f9052d-948d-4fe3-a795-3dd07ab2c2a9",
+    "secondary-types": [
+     "Remix"
+    ],
+    "first-release-date": "2018-07-13"
+   },
+   {
+    "id": "e86c7e83-4752-4470-a9d0-374734d5d53b",
+    "secondary-types": [],
+    "disambiguation": "",
+    "primary-type": "Single",
+    "title": "Silent Valley",
+    "first-release-date": "1998-08-06"
+   },
+   {
+    "primary-type": "EP",
+    "id": "d6d73e50-38d5-4a30-aaf4-baf8f718f3f2",
+    "disambiguation": "",
+    "secondary-types": [
+     "Compilation"
+    ],
+    "title": "Open Atlas Voyage",
+    "first-release-date": "2001-03-24"
+   },
+   {
+    "id": "5a482f0c-0f1f-4d5d-acf8-4a80706063b2",
+    "disambiguation": "",
+    "secondary-types": [],
+    "primary-type": "EP",
+    "title": "Sudden Chapel",
+    "first-release-date": "1991-06-01"
+   },
+   {
+    "first-release-date": "2019-01-21",
+    "secondary-types": [
+     "Live"
+    ],
+    "id": "92ff1905-3850-4508-accd-cfc9b8cead9d",
+    "disambiguation": "",
+    "primary-type": "Album",
+    "title": "Sudden Theater Sluice Cliff"
+   },
+   {
+    "first-release-date": "1991-06-06",
+    "id": "c7f946f7-1a92-4590-ad65-e3a609a415ce",
+    "disambiguation": "",
+    "secondary-types": [],
+    "primary-type": "EP",
+    "title": "Silver Sandbar Cliff Voyage"
+   },
+   {
+    "first-release-date": "2010-06-21",
+    "id": "46039bb6-8822-4868-a4a9-60bc70c4334b",
+    "disambiguation": "",
+    "secondary-types": [
+     "Live"
+    ],
+    "primary-type": "Album",
+    "title": "Copper Lantern Alley Overpass"
+   },
+   {
+    "title": "Southern Hollow",
+    "id": "5c4d3cd2-115e-4906-a5c8-1389504f0f6c",
+    "secondary-types": [],
+    "disambiguation": "",
+    "primary-type": "Album",
+    "first-release-date": "2004-10-10"
+   },
+   {
+    "primary-type": "Album",
+    "disambiguation": "",
+    "id": "c4a6c499-6054-4b2b-a3c6-8b9671a9ccf9",
+    "secondary-types": [
+     "Live"
+    ],
+    "title": "Northern Quarry Avenue Cliff",
+    "first-release-date": "2017-01"
+   },
+   {
+    "first-release-date": "2018-11-05",
+    "primary-type": "Album",
+    "id": "b2ea3d81-9995-45cf-a6b8-efdf031ccf21",
+    "secondary-types": [
+     "Compilation"
+    ],
+    "disambiguation": "",
+    "title": "Eastern Wharf Hollow"
+   },
+   {
+    "first-release-date": "2001-11",
+    "disambiguation": "",
+    "id": "1363b591-35eb-49a4-a473-8c0839d76f29",
+    "secondary-types": [
+     "Remix"
+    ],
+    "primary-type": "Single",
+    "title": "Wooden Thicket Meadow Garden"
+   },
+   {
+    "first-release-date": "2008",
+    "primary-type": "Single",
+    "secondary-types": [
+     "Remix"
+    ],
+    "id": "624ab563-e360-4d98-a90b-6913518b9466",
+    "disambiguation": "",
+    "title": "Young Voyage Parade Causeway"
+   },
+   {
+    "first-release-date": "2017-02-21",
+    "primary-type": "Single",
+    "secondary-types": [],
+    "id": "73dde802-5f7e-4615-a500-e6c335aac126",
+    "disambiguation": "",
+    "title": "Idle Sluice Thicket Ferry"
+   },
+   {
+    "primary-type": "Single",
+    "disambiguation": "",
+    "id": "66089f48-6889-4e2e-a798-893d4e188b05",
+    "secondary-types": [],
+    "title": "Dappled Beacon",
+    "first-release-date": "2014-09-12"
+   },
+   {
+    "first-release-date": "2012-12-25",
+    "title": "Silver Lantern",
+    "primary-type": "Single",
+    "id": "2ad07407-aeb6-423c-a9a1-6edcc52cd220",
+    "disambiguation": "",
+    "secondary-types": []
+   },
+   {
+    "title": "Silver Window Station",
+    "disambiguation": "",
+    "id": "c769600f-a9af-4200-a6c6-e7d003dbba5b",
+    "secondary-types": [],
+    "primary-type": "Single",
+    "first-release-date": "1992-05-15"
+   },
+   {
+    "first-release-date": "1992",
+    "title": "Silver Sluice Atlas Overpass",
+    "id": "df2c2c4f-96dc-4ff5-a814-8773490f0373",
+    "secondary-types": [
+     "Live"
+    ],
+    "disambiguation": "",
+    "primary-type": "EP"
+   },
+   {
+    "secondary-types": [],
+    "id": "44de9602-e286-43bc-aeb3-a559fae4ec18",
+    "disambiguation": "",
+    "primary-type": "EP",
+    "title": "Velvet Willow Voyage Paddock",
+    "first-release-date": "1995-04-21"
+   },
+   {
+    "title": "Western Junction Morning Cellar",
+    "primary-type": "Single",
+    "id": "5a745873-68e3-4617-a1df-0f7f8a129fbb",
+    "disambiguation": "",
+    "secondary-types": [
+     "Remix"
+    ],
+    "first-release-date": "2008"
+   },
+   {
+    "primary-type": "Album",
+    "id": "cd828638-bc38-4ec7-a4fc-7bc582c8cbdc",
+    "secondary-types": [
+     "Compilation"
+    ],
+    "disambiguation": "",
+    "title": "Southern Sandbar Pier",
+    "first-release-date": "2005-05-28"
+   },
+   {
+    "title": "Faded Overpass Meadow Station",
+    "disambiguation": "",
+    "id": "706adf39-e8b8-4b9f-a12f-174d6579a085",
+    "secondary-types": [],
+    "primary-type": "Single",
+    "first-release-date": "1993-01-22"
+   },
+   {
+    "id": "e0138d04-6caf-4b03-ac82-5836fb2e019b",
+    "disambiguation": "",
+    "secondary-types": [],
+    "primary-type": "Single",
+    "title": "Dappled Railway",
+    "first-release-date": "2005-09-23"
+   },
+   {
+    "title": "Wild Window Atlas Ledger",
+    "primary-type": "Album",
+    "disambiguation": "",
+    "id": "82a144e0-4536-4598-a9a5-10f568f3a530",
+    "secondary-types": [],
+    "first-release-date": "2008-02-18"
+   },
+   {
+    "first-release-date": "1993-07-26",
+    "title": "Quiet Letter",
+    "primary-type": "Single",
+    "secondary-types": [],
+    "id": "19319abe-ef04-4aec-a829-7c1522095264",
+    "disambiguation": ""
+   },
+   {
+    "title": "Dappled Parade",
+    "id": "6787b3ce-427d-4de2-a12f-80eab9e59481",
+    "secondary-types": [],
+    "disambiguation": "",
+    "primary-type": "Single",
+    "first-release-date": "2016-01-11"
+   },
+   {
+    "first-release-date": "1992-02-27",
+    "primary-type": "Single",
+    "id": "ea4c0cb7-4373-45db-ae5f-0ce6aaecc7b0",
+    "disambiguation": "",
+    "secondary-types": [],
+    "title": "Dappled Dale Theater"
+   },
+   {
+    "disambiguation": "",
+    "id": "66a2f5f0-f3c4-4ca0-a1f6-de75e3febc13",
+    "secondary-types": [],
+    "primary-type": "Single",
+    "title": "Silent Field Window",
+    "first-release-date": "2000-08-18"
+   },
+   {
+    "first-release-date": "1991-09-24",
+    "primary-type": "EP",
+    "id": "e6b76c25-e3b1-43f1-a65d-37d9a2b17660",
+    "secondary-types": [],
+    "disambiguation": "",
+    "title": "Ragged Overpass Theater"
+   },
+   {
+    "disambiguation": "",
+    "id": "dcd6f62e-b45b-4d25-ac3b-653122ed5fe6",
+    "secondary-types": [],
+    "primary-type": "Single",
+    "title": "Amber Thicket",
+    "first-release-date": "2005-03-31"
+   },
+   {
+    "first-release-date": "2018-09-07",
+    "title": "Silver Season Estuary Current",
+    "primary-type": "Single",
+    "disambiguation": "",
+    "id": "6d9583f0-8c7c-41df-aabf-3a52bf832c41",
+    "secondary-types": []
+   },
+   {
+    "title": "Glass Radio",
+    "disambiguation": "",
+    "id": "2fd0ff86-3fe8-4a6a-a8fa-1f0dc0679e4f",
+    "secondary-types": [],
+    "primary-type": "Single",
+    "first-release-date": "2013-05-06"
+   },
+   {
+    "secondary-types": [
+     "Remix"
+    ],
+    "id": "4c70f66c-25ed-4590-a797-ee8ee8980d57",
+    "disambiguation": "",
+    "primary-type": "Single",
+    "title": "Mellow Cellar Harbor Parade",
+    "first-release-date": "2008"
+   },
+   {
+    "first-release-date": "1993-05",
+    "disambiguation": "",
+    "id": "e7c252f8-9dd6-437a-a24b-277e3f122069",
+    "secondary-types": [
+     "Live"
+    ],
+    "primary-type": "EP",
+    "title": "Early Field Avenue Estuary"
+   },
+   {
+    "first-release-date": "1994-05-21",
+    "title": "Broken Copse",
+    "primary-type": "Album",
+    "secondary-types": [],
+    "id": "e195832c-a81e-40b3-af4e-960defc3ce7e",
+    "disambiguation": ""
+   },
+   {
+    "title": "Winter Corner",
+    "primary-type": "EP",
+    "disambiguation": "",
+    "id": "8c125a19-59ac-4e81-a7b6-381585e4b368",
+    "secondary-types": [],
+    "first-release-date": "1989-05-05"
+   },
+   {
+    "first-release-date": "1992-03-24",
+    "title": "Distant Morning Season",
+    "primary-type": "EP",
+    "id": "fcf56ef7-7111-4e92-a734-73525d3e67c6",
+    "secondary-types": [
+     "Live"
+    ],
+    "disambiguation": ""
+   },
+   {
+    "first-release-date": "2013-05-03",
+    "id": "811b6ede-4414-4ade-a9fe-a681201ef1c1",
+    "disambiguation": "",
+    "secondary-types": [],
+    "primary-type": "Single",
+    "title": "Pale Alcove Overpass"
+   },
+   {
+    "first-release-date": "2000-04",
+    "primary-type": "Single",
+    "secondary-types": [],
+    "id": "f01f7d43-79b0-47bc-a7bd-2a229f7b925b",
+    "disambiguation": "",
+    "title": "Paper Copse"
+   },
+   {
+    "first-release-date": "2004-12-10",
+    "title": "Still Field Tunnel",
+    "disambiguation": "",
+    "id": "b68f96ea-1dac-4099-a68a-9d0eee188495",
+    "secondary-types": [
+     "Compilation"
+    ],
+    "primary-type": "Album"
+   },
+   {
+    "first-release-date": "1991-11-29",
+    "title": "Quiet Letter",
+    "id": "e2701126-f963-45ed-a165-ad9be75db475",
+    "disambiguation": "",
+    "secondary-types": [],
+    "primary-type": "Album"
+   },
+   {
+    "disambiguation": "",
+    "id": "5eeaddb3-5c07-44ae-a088-ab05a6e3a5d3",
+    "secondary-types": [
+     "Live"
+    ],
+    "primary-type": "Album",
+    "title": "Still Inlet Pavilion Quarry",
+    "first-release-date": "2017-07-02"
+   },
+   {
+    "first-release-date": "2013-05-08",
+    "primary-type": "Album",
+    "disambiguation": "",
+    "id": "d179b73f-76fa-4e82-a0d8-9633b6bb0542",
+    "secondary-types": [],
+    "title": "Western Alcove Pier Current"
+   },
+   {
+    "first-release-date": "1998-05-30",
+    "title": "Cobalt Season",
+    "secondary-types": [],
+    "id": "fa09b664-2401-47cc-a856-d9dc6909bbda",
+    "disambiguation": "",
+    "primary-type": "Album"
+   },
+   {
+    "first-release-date": "1990-10-01",
+    "primary-type": "Single",
+    "id": "f14a8480-6cd0-403c-aaef-286ccafd0927",
+    "disambiguation": "",
+    "secondary-types": [],
+    "title": "Glass Ferry"
+   },
+   {
+    "id": "e82c3b6f-2692-4c7b-a828-1acbb45c59dc",
+    "secondary-types": [],
+    "disambiguation": "",
+    "primary-type": "Single",
+    "title": "Wooden Copse",
+    "first-release-date": "1989-09-21"
+   },
+   {
+    "first-release-date": "1992-08-07",
+    "title": "Silent Corner",
+    "id": "6d176a93-da9b-4448-a935-c2f5b9e9c864",
+    "secondary-types": [],
+    "disambiguation": "",
+    "primary-type": "Single"
+   },
+   {
+    "secondary-types": [
+     "Live"
+    ],
+    "id": "5671483f-f2df-4e36-a744-48778bf7a4ae",
+    "disambiguation": "",
+    "primary-type": "Single",
+    "title": "Broken Circuit Ledger Theater",
+    "first-release-date": "2013-09-15"
+   },
+   {
+    "secondary-types": [
+     "Remix"
+    ],
+    "id": "8231bd0f-6898-4356-aa7a-7e6514ef7f6f",
+    "disambiguation": "",
+    "primary-type": "Single",
+    "title": "Plain Corner Valley Mirror",
+    "first-release-date": "2008"
+   },
+   {
+    "first-release-date": "2005-01-14",
+    "title": "Clear Window Sandbar Pavilion",
+    "primary-type": "Single",
+    "disambiguation": "",
+    "id": "900d2ca3-eee4-4ab6-ab40-add580f458d2",
+    "secondary-types": []
+   },
+   {
+    "secondary-types": [],
+    "id": "341ec716-1645-49d9-aa73-8cbb6e38c083",
+    "disambiguation": "",
+    "primary-type": "Album",
+    "title": "Sudden Letter",
+    "first-release-date": "1990-02-22"
+   },
+   {
+    "primary-type": "Album",
+    "disambiguation": "",
+    "id": "0a898185-a57e-4f2f-abf6-e4c71053af22",
+    "secondary-types": [
+     "Live"
+    ],
+    "title": "Late Copse Sandbar Parade",
+    "first-release-date": "2005-06-24"
+   },
+   {
+    "first-release-date": "2021-10-11",
+    "title": "Misty Current Morning",
+    "primary-type": "Single",
+    "disambiguation": "",
+    "id": "2e01d1b8-f746-4745-abff-f812c672ce73",
+    "secondary-types": []
+   },
+   {
+    "title": "Hollow Satellite",
+    "secondary-types": [
+     "Remix"
+    ],
+    "id": "31c3ede7-3d1a-4cac-ac88-a31952bfd501",
+    "disambiguation": "",
+    "primary-type": "Single",
+    "first-release-date": "2008-07-04"
+   },
+   {
+    "title": "Distant Valley",
+    "primary-type": "Single",
+    "id": "e494f879-2675-4298-ad72-7446b9078e02",
+    "disambiguation": "",
+    "secondary-types": [],
+    "first-release-date": "1994-07"
+   },
+   {
+    "id": "ae458c6a-7268-470d-a76a-7a0a20a98c5b",
+    "disambiguation": "",
+    "secondary-types": [
+     "Compilation"
+    ],
+    "primary-type": "Album",
+    "title": "Narrow Station",
+    "first-release-date": "2005-01-01"
+   },
+   {
+    "first-release-date": "2020-05-17",
+    "primary-type": "EP",
+    "secondary-types": [
+     "Live"
+    ],
+    "id": "a621b153-a9ca-4021-a1d6-dde526ce61af",
+    "disambiguation": "",
+    "title": "Crimson River Corner Corner"
+   },
+   {
+    "first-release-date": "2014-06-02",
+    "primary-type": "Single",
+    "id": "1a4efe63-ecb2-474d-a91f-a168a7c65646",
+    "secondary-types": [],
+    "disambiguation": "",
+    "title": "Crimson Letter"
+   },
+   {
+    "first-release-date": "2018-11-01",
+    "title": "Broken Alcove Valley",
+    "primary-type": "Single",
+    "id": "5c7768cc-00fb-49c9-a6ab-65c6dc6a9e9b",
+    "secondary-types": [],
+    "disambiguation": ""
+   },
+   {
+    "primary-type": "Single",
+    "secondary-types": [
+     "Remix"
+    ],
+    "id": "7508250b-223e-4d49-a516-ef45696204c9",
+    "disambiguation": "",
+    "title": "Crimson Cellar Morning Copse",
+    "first-release-date": "2009-01-23"
+   },
+   {
+    "first-release-date": "1994-11",
+    "id": "0e45604f-83a1-47b2-a08d-2a043af0a751",
+    "secondary-types": [],
+    "disambiguation": "",
+    "primary-type": "Single",
+    "title": "Ashen Valley"
+   },
+   {
+    "title": "Distant Causeway Engine Sandbar",
+    "primary-type": "Album",
+    "secondary-types": [
+     "Live"
+    ],
+    "id": "d9d4b769-5338-490e-aa8b-a9b0d24cb99b",
+    "disambiguation": "",
+    "first-release-date": "1998-11-07"
+   },
+   {
+    "first-release-date": "1997-08-03",
+    "secondary-types": [],
+    "id": "a1a6457f-6282-417a-a816-7df9efc1a199",
+    "disambiguation": "",
+    "primary-type": "Album",
+    "title": "Violet Railway"
+   },
+   {
+    "secondary-types": [],
+    "id": "e30cfe52-479b-4589-af0a-98ceb5cd4ed7",
+    "disambiguation": "",
+    "primary-type": "Single",
+    "title": "Glass Needle Lighthouse Pavilion",
+    "first-release-date": "2006-08-05"
+   },
+   {
+    "id": "f9dc18eb-d57e-4430-a67d-2385027ca229",
+    "disambiguation": "",
+    "secondary-types": [
+     "Compilation",
+     "Remix"
+    ],
+    "primary-type": "Album",
+    "title": "Ashen Pier Mirror Field",
+    "first-release-date": "2008-09-21"
+   },
+   {
+    "title": "Silver Sandbar Cliff Voyage",
+    "primary-type": "Single",
+    "id": "3cab166d-2101-45de-a2ca-aa407166c834",
+    "disambiguation": "",
+    "secondary-types": [],
+    "first-release-date": "1990-02-01"
+   }
+  ],
+  "release-group-count": 94
+ }
+}

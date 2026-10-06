@@ -1,0 +1,465 @@
+{
+ "name": "songs-by-isrc",
+ "url": "https://musicbrainz.org/ws/2/recording",
+ "params": {
+  "query": "isrc:ZZZRE6259963",
+  "limit": "100",
+  "fmt": "json"
+ },
+ "status": 200,
+ "body": {
+  "created": "2026-01-01T00:00:00.000Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+   {
+    "id": "dc2e966d-3e9a-4376-a59f-002563af600d",
+    "score": 100,
+    "title": "Amber Window",
+    "length": 197610,
+    "video": null,
+    "artist-credit": [
+     {
+      "name": "Silver Railway",
+      "artist": {
+       "id": "d636fb81-50e0-48b3-acce-f81f254bb282",
+       "name": "Silver Railway"
+      }
+     }
+    ],
+    "first-release-date": "2014-08",
+    "releases": [
+     {
+      "id": "0b4d2943-91b4-4147-aa21-9775d53a69cc",
+      "count": 1,
+      "title": "Silent Parade",
+      "status": "Official",
+      "release-group": {
+       "id": "6988d30e-01e7-4fb4-abf5-87f93e34247a",
+       "title": "Silent Parade",
+       "primary-type": "Album"
+      },
+      "date": "2014-09-08",
+      "country": "CA",
+      "track-count": 10,
+      "media": [
+       {
+        "id": "99af7ecb-dad5-4cba-a0c9-dbc2e65404bb",
+        "position": 1,
+        "format": "CD",
+        "track": [
+         {
+          "id": "a43f8468-fd48-483f-a928-6c9b9aabf3a6",
+          "number": "1",
+          "title": "Amber Window",
+          "length": 197610
+         }
+        ],
+        "track-count": 10,
+        "track-offset": 0
+       }
+      ]
+     },
+     {
+      "id": "27edae4c-266c-4099-a4d8-e263f2da897c",
+      "count": 1,
+      "title": "Silent Parade",
+      "status": "Official",
+      "disambiguation": "",
+      "release-group": {
+       "id": "6988d30e-01e7-4fb4-abf5-87f93e34247a",
+       "title": "Silent Parade",
+       "primary-type": "Album"
+      },
+      "track-count": 10,
+      "media": [
+       {
+        "id": "6223608c-07d0-4130-ad30-445380610b93",
+        "position": 1,
+        "format": "12\" Vinyl",
+        "track": [
+         {
+          "id": "76c7a930-0651-4092-affb-1e7ff608d947",
+          "number": "A1",
+          "title": "Amber Window"
+         }
+        ],
+        "track-count": 10,
+        "track-offset": 0
+       }
+      ]
+     },
+     {
+      "id": "5d3e6951-7e0d-4b34-a59e-6009bc26ff40",
+      "count": 1,
+      "title": "Amber Window",
+      "status": "Official",
+      "release-group": {
+       "id": "46525c1e-a418-407d-a8d0-74ad16b6a907",
+       "title": "Amber Window",
+       "primary-type": "Single"
+      },
+      "date": "2014-09",
+      "country": "GB",
+      "track-count": 2,
+      "media": [
+       {
+        "id": "7aab2252-89db-4225-aabc-ea4f83b23529",
+        "position": 1,
+        "format": "7\" Vinyl",
+        "track": [
+         {
+          "id": "d6f50e77-5eb9-4782-ada8-c21cb702d9e7",
+          "number": "A",
+          "title": "Amber Window",
+          "length": 197190
+         }
+        ],
+        "track-count": 2,
+        "track-offset": 0
+       }
+      ]
+     },
+     {
+      "id": "8345219e-820f-4f53-aa2c-b15e30cf7a56",
+      "count": 2,
+      "title": "Sudden Byway",
+      "status": "Official",
+      "release-group": {
+       "id": "9074c102-3f95-479a-af41-3071f896de79",
+       "title": "Sudden Byway",
+       "primary-type": "Album"
+      },
+      "date": "2019-10-07",
+      "country": "GB",
+      "track-count": 26,
+      "media": [
+       {
+        "id": "4db4fcfc-852c-40f4-aec1-46aa82f32c6c",
+        "position": 2,
+        "format": "CD",
+        "track": [
+         {
+          "id": "31de7f7e-f1e1-4ab1-ab7b-7a5f7bd8c8e9",
+          "number": "6",
+          "title": "Amber Window",
+          "length": 197190
+         }
+        ],
+        "track-count": 12,
+        "track-offset": 5
+       }
+      ]
+     },
+     {
+      "id": "41985c11-f88f-4b10-a5b2-229f73c8260c",
+      "count": 2,
+      "title": "Sudden Byway",
+      "status": "Official",
+      "release-group": {
+       "id": "9074c102-3f95-479a-af41-3071f896de79",
+       "title": "Sudden Byway",
+       "primary-type": "Album"
+      },
+      "date": "2019-10-07",
+      "country": "GB",
+      "track-count": 25,
+      "media": [
+       {
+        "id": "1d91caea-2a1d-418c-a04a-a9ec0643766a",
+        "position": 2,
+        "format": "CD",
+        "track": [
+         {
+          "id": "ee1d5fd8-f51f-40c3-a317-aeb008c55e73",
+          "number": "6",
+          "title": "Amber Window",
+          "length": 197259
+         }
+        ],
+        "track-count": 12,
+        "track-offset": 5
+       }
+      ]
+     },
+     {
+      "id": "db812f4a-2e38-4d97-a175-77e25704bf52",
+      "count": 1,
+      "title": "Silent Parade",
+      "status": "Official",
+      "release-group": {
+       "id": "6988d30e-01e7-4fb4-abf5-87f93e34247a",
+       "title": "Silent Parade",
+       "primary-type": "Album"
+      },
+      "track-count": 10,
+      "media": [
+       {
+        "id": "6c2f0a08-d3bd-43c9-ae06-3e166b1b7b46",
+        "position": 1,
+        "format": "Cassette",
+        "track": [
+         {
+          "id": "37c9e182-ba16-4653-a362-acec10bb506f",
+          "number": "1",
+          "title": "Amber Window"
+         }
+        ],
+        "track-count": 10,
+        "track-offset": 0
+       }
+      ]
+     },
+     {
+      "id": "830fe01d-be98-402f-a3f3-dbec185aa067",
+      "count": 1,
+      "title": "Crimson Engine Window",
+      "status": "Official",
+      "release-group": {
+       "id": "921677c5-2a16-4166-a11f-a5fd5b3820c2",
+       "title": "Crimson Engine Window",
+       "disambiguation": "",
+       "primary-type": "EP",
+       "secondary-types": [
+        "Compilation"
+       ]
+      },
+      "date": "2019-10-07",
+      "country": "GB",
+      "track-count": 12,
+      "media": [
+       {
+        "id": "a0146fe9-1f34-4143-abd2-09a13c90bb33",
+        "position": 1,
+        "format": "CD",
+        "track": [
+         {
+          "id": "4cfc4b9b-e261-408d-aa2e-7459c380c2c7",
+          "number": "6",
+          "title": "Amber Window",
+          "length": 197259
+         }
+        ],
+        "track-count": 12,
+        "track-offset": 5
+       }
+      ]
+     },
+     {
+      "id": "aef02832-c99c-492f-ac23-f82f3c486dbf",
+      "count": 1,
+      "title": "Silent Parade",
+      "status": "Official",
+      "release-group": {
+       "id": "6988d30e-01e7-4fb4-abf5-87f93e34247a",
+       "title": "Silent Parade",
+       "primary-type": "Album"
+      },
+      "date": "2014-09-08",
+      "country": "XW",
+      "track-count": 10,
+      "media": [
+       {
+        "id": "7a3074e7-c000-4f11-a0c0-6c39320a68e6",
+        "position": 1,
+        "format": "Digital Media",
+        "track": [
+         {
+          "id": "7ff8de4f-52c9-4ef1-a1d7-8d6becd41a21",
+          "number": "1",
+          "title": "Amber Window",
+          "length": 197558
+         }
+        ],
+        "track-count": 10,
+        "track-offset": 0
+       }
+      ]
+     },
+     {
+      "id": "239a95fc-93ea-4480-ac4a-65fa314d1ef6",
+      "count": 1,
+      "title": "Silent Parade",
+      "status": "Official",
+      "release-group": {
+       "id": "6988d30e-01e7-4fb4-abf5-87f93e34247a",
+       "title": "Silent Parade",
+       "primary-type": "Album"
+      },
+      "date": "2014-09-08",
+      "country": "XE",
+      "track-count": 10,
+      "media": [
+       {
+        "id": "93acb704-bebe-4cfc-acfb-5777a57ee8a0",
+        "position": 1,
+        "format": "CD",
+        "track": [
+         {
+          "id": "37c63afc-ddf8-46e0-acb0-5e10463fc30f",
+          "number": "1",
+          "title": "Amber Window",
+          "length": 197610
+         }
+        ],
+        "track-count": 10,
+        "track-offset": 0
+       }
+      ]
+     },
+     {
+      "id": "e4403a51-9e7d-4361-a11c-31cb847a3a82",
+      "count": 1,
+      "title": "Quiet Valley Corner Overpass",
+      "status": "Official",
+      "artist-credit": [
+       {
+        "name": "Various Artists",
+        "artist": {
+         "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+         "name": "Various Artists",
+         "disambiguation": ""
+        }
+       }
+      ],
+      "release-group": {
+       "id": "61c51185-28df-49b2-aabf-bb1a13716734",
+       "title": "Quiet Valley Corner Overpass",
+       "primary-type": "Album",
+       "secondary-types": [
+        "Compilation"
+       ]
+      },
+      "track-count": 13,
+      "media": [
+       {
+        "id": "1e3a0134-e8e1-469f-a432-48d5f33d0049",
+        "position": 1,
+        "format": "Digital Media",
+        "track": [
+         {
+          "id": "386d4301-e167-4114-a34e-96481a4c4b0e",
+          "number": "1",
+          "title": "Amber Window",
+          "length": 191753
+         }
+        ],
+        "track-count": 13,
+        "track-offset": 0
+       }
+      ]
+     },
+     {
+      "id": "09052bb5-f523-44f1-a534-5e3f98fd10b8",
+      "count": 1,
+      "title": "Silent Parade",
+      "status": "Official",
+      "release-group": {
+       "id": "6988d30e-01e7-4fb4-abf5-87f93e34247a",
+       "title": "Silent Parade",
+       "primary-type": "Album"
+      },
+      "date": "2014-09-08",
+      "country": "US",
+      "track-count": 10,
+      "media": [
+       {
+        "id": "0ec44c41-3c19-4f38-abb3-ee69d12a03a8",
+        "position": 1,
+        "format": "CD",
+        "track": [
+         {
+          "id": "b4ca1d7f-ffe2-439a-a1e3-aad7088471a0",
+          "number": "1",
+          "title": "Amber Window",
+          "length": 197610
+         }
+        ],
+        "track-count": 10,
+        "track-offset": 0
+       }
+      ]
+     },
+     {
+      "id": "8bf45fcf-5fce-45ce-a21a-52eedee2ddc9",
+      "count": 1,
+      "title": "Silver Overpass",
+      "status": "Promotion",
+      "artist-credit": [
+       {
+        "name": "Various Artists",
+        "artist": {
+         "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+         "name": "Various Artists",
+         "disambiguation": ""
+        }
+       }
+      ],
+      "release-group": {
+       "id": "ef7d7426-6388-49e7-a89d-27e8c4d9aa46",
+       "title": "Silver Overpass",
+       "primary-type": "Album",
+       "secondary-types": [
+        "Compilation"
+       ]
+      },
+      "date": "2014-08",
+      "country": "DE",
+      "track-count": 6,
+      "media": [
+       {
+        "id": "916fa682-4ba2-48bd-a6cb-b5857caebd24",
+        "position": 1,
+        "format": "CD",
+        "track": [
+         {
+          "id": "864d6d8a-d4cb-43fa-a7d2-c8f1afa7f8ea",
+          "number": "6",
+          "title": "Amber Window",
+          "length": 198500
+         }
+        ],
+        "track-count": 6,
+        "track-offset": 5
+       }
+      ]
+     },
+     {
+      "id": "823198f7-811e-49cb-a2d1-0d1be1b6a58d",
+      "count": 1,
+      "title": "Silent Parade",
+      "status": "Official",
+      "release-group": {
+       "id": "6988d30e-01e7-4fb4-abf5-87f93e34247a",
+       "title": "Silent Parade",
+       "primary-type": "Album"
+      },
+      "date": "2014-09-08",
+      "country": "XW",
+      "track-count": 10,
+      "media": [
+       {
+        "id": "12a55dc5-7170-4d10-a4ce-c6d711777fef",
+        "position": 1,
+        "format": "Digital Media",
+        "track": [
+         {
+          "id": "1a1ec8c2-d3d4-41be-af7b-8d4e53768f40",
+          "number": "1",
+          "title": "Amber Window",
+          "length": 197190
+         }
+        ],
+        "track-count": 10,
+        "track-offset": 0
+       }
+      ]
+     }
+    ],
+    "isrcs": [
+     "ZZZRE6259963"
+    ]
+   }
+  ]
+ }
+}

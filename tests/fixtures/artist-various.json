@@ -1,0 +1,15 @@
+{
+ "name": "artist-various",
+ "url": "https://musicbrainz.org/ws/2/artist/89ad4ac3-39f7-470e-963a-56509c546377",
+ "params": {
+  "fmt": "json"
+ },
+ "status": 200,
+ "body": {
+  "name": "Various Artists",
+  "type": "Other",
+  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+  "country": null,
+  "disambiguation": ""
+ }
+}
